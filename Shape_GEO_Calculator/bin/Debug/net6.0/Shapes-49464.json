@@ -1,0 +1,4949 @@
+{
+  "Squares": [
+    {
+      "Id": 2,
+      "CenterX": 193.952,
+      "CenterY": 97.468,
+      "SideLength": 60.838,
+      "Orientation": 6.013
+    },
+    {
+      "Id": 3,
+      "CenterX": 207.067,
+      "CenterY": 217.309,
+      "SideLength": 50.047,
+      "Orientation": 0.242
+    },
+    {
+      "Id": 4,
+      "CenterX": 384.467,
+      "CenterY": 408.691,
+      "SideLength": 99.428,
+      "Orientation": 4.921
+    },
+    {
+      "Id": 14,
+      "CenterX": 156.832,
+      "CenterY": 415.437,
+      "SideLength": 95.412,
+      "Orientation": 4.199
+    },
+    {
+      "Id": 21,
+      "CenterX": 33.791,
+      "CenterY": 419.935,
+      "SideLength": 88.041,
+      "Orientation": 0.735
+    },
+    {
+      "Id": 25,
+      "CenterX": 52.389,
+      "CenterY": 14.939,
+      "SideLength": 19.062,
+      "Orientation": 3.749
+    },
+    {
+      "Id": 26,
+      "CenterX": 281.903,
+      "CenterY": 200.101,
+      "SideLength": 10.312,
+      "Orientation": 4.453
+    },
+    {
+      "Id": 27,
+      "CenterX": 118.003,
+      "CenterY": 5.873,
+      "SideLength": 46.223,
+      "Orientation": 5.515
+    },
+    {
+      "Id": 35,
+      "CenterX": 476.624,
+      "CenterY": 339.994,
+      "SideLength": 67.402,
+      "Orientation": 2.677
+    },
+    {
+      "Id": 36,
+      "CenterX": 84.599,
+      "CenterY": 44.228,
+      "SideLength": 26.519,
+      "Orientation": 4.923
+    },
+    {
+      "Id": 39,
+      "CenterX": 270.829,
+      "CenterY": 8.475,
+      "SideLength": 54.36,
+      "Orientation": 0.596
+    },
+    {
+      "Id": 51,
+      "CenterX": 415.678,
+      "CenterY": 328.544,
+      "SideLength": 35.621,
+      "Orientation": 2.581
+    },
+    {
+      "Id": 56,
+      "CenterX": 182.984,
+      "CenterY": 75.928,
+      "SideLength": 37.338,
+      "Orientation": 4.141
+    },
+    {
+      "Id": 63,
+      "CenterX": 360.736,
+      "CenterY": 131.974,
+      "SideLength": 10.286,
+      "Orientation": 3.275
+    },
+    {
+      "Id": 66,
+      "CenterX": 323.226,
+      "CenterY": 18.517,
+      "SideLength": 19.228,
+      "Orientation": 0.952
+    },
+    {
+      "Id": 70,
+      "CenterX": 45.781,
+      "CenterY": 411.782,
+      "SideLength": 6.448,
+      "Orientation": 2.247
+    },
+    {
+      "Id": 74,
+      "CenterX": 428.399,
+      "CenterY": 333.753,
+      "SideLength": 38.805,
+      "Orientation": 1.922
+    },
+    {
+      "Id": 79,
+      "CenterX": 433.588,
+      "CenterY": 433.549,
+      "SideLength": 4.874,
+      "Orientation": 5.424
+    },
+    {
+      "Id": 82,
+      "CenterX": 316.249,
+      "CenterY": 499.125,
+      "SideLength": 33.453,
+      "Orientation": 4.867
+    },
+    {
+      "Id": 83,
+      "CenterX": 462.735,
+      "CenterY": 240.946,
+      "SideLength": 15.452,
+      "Orientation": 1.379
+    },
+    {
+      "Id": 91,
+      "CenterX": 223.109,
+      "CenterY": 442.696,
+      "SideLength": 2.179,
+      "Orientation": 4.897
+    },
+    {
+      "Id": 102,
+      "CenterX": 250.044,
+      "CenterY": 409.204,
+      "SideLength": 54.867,
+      "Orientation": 6.159
+    },
+    {
+      "Id": 107,
+      "CenterX": 74.943,
+      "CenterY": 83.349,
+      "SideLength": 27.136,
+      "Orientation": 4.86
+    },
+    {
+      "Id": 112,
+      "CenterX": 370.502,
+      "CenterY": 442.478,
+      "SideLength": 43.24,
+      "Orientation": 4.597
+    },
+    {
+      "Id": 115,
+      "CenterX": 411.289,
+      "CenterY": 59.645,
+      "SideLength": 79.396,
+      "Orientation": 4.545
+    },
+    {
+      "Id": 119,
+      "CenterX": 438.447,
+      "CenterY": 380.995,
+      "SideLength": 26.656,
+      "Orientation": 4.657
+    },
+    {
+      "Id": 121,
+      "CenterX": 498.482,
+      "CenterY": 355.017,
+      "SideLength": 76.834,
+      "Orientation": 0.624
+    },
+    {
+      "Id": 122,
+      "CenterX": 2.973,
+      "CenterY": 83.296,
+      "SideLength": 1.317,
+      "Orientation": 2.739
+    },
+    {
+      "Id": 142,
+      "CenterX": 69.862,
+      "CenterY": 271.39,
+      "SideLength": 91.968,
+      "Orientation": 0.539
+    },
+    {
+      "Id": 143,
+      "CenterX": 149.202,
+      "CenterY": 106.382,
+      "SideLength": 40.519,
+      "Orientation": 3.535
+    },
+    {
+      "Id": 144,
+      "CenterX": 234.22,
+      "CenterY": 295.012,
+      "SideLength": 58.151,
+      "Orientation": 4.952
+    },
+    {
+      "Id": 149,
+      "CenterX": 236.214,
+      "CenterY": 489.437,
+      "SideLength": 54.504,
+      "Orientation": 4.311
+    },
+    {
+      "Id": 153,
+      "CenterX": 429.133,
+      "CenterY": 359.084,
+      "SideLength": 29.935,
+      "Orientation": 6.042
+    },
+    {
+      "Id": 155,
+      "CenterX": 399.771,
+      "CenterY": 422.303,
+      "SideLength": 59.568,
+      "Orientation": 1.935
+    },
+    {
+      "Id": 156,
+      "CenterX": 278.758,
+      "CenterY": 340.085,
+      "SideLength": 65.857,
+      "Orientation": 5.053
+    },
+    {
+      "Id": 157,
+      "CenterX": 479.376,
+      "CenterY": 6.319,
+      "SideLength": 44.233,
+      "Orientation": 1.847
+    },
+    {
+      "Id": 166,
+      "CenterX": 391.697,
+      "CenterY": 70.249,
+      "SideLength": 16.372,
+      "Orientation": 3.098
+    },
+    {
+      "Id": 167,
+      "CenterX": 481.878,
+      "CenterY": 147.666,
+      "SideLength": 99.517,
+      "Orientation": 5.243
+    },
+    {
+      "Id": 168,
+      "CenterX": 262.769,
+      "CenterY": 327.44,
+      "SideLength": 88.333,
+      "Orientation": 0.858
+    },
+    {
+      "Id": 169,
+      "CenterX": 316.846,
+      "CenterY": 471.664,
+      "SideLength": 75.192,
+      "Orientation": 0.426
+    },
+    {
+      "Id": 170,
+      "CenterX": 164.996,
+      "CenterY": 145.882,
+      "SideLength": 47.015,
+      "Orientation": 4.824
+    },
+    {
+      "Id": 178,
+      "CenterX": 370.401,
+      "CenterY": 403.247,
+      "SideLength": 93.631,
+      "Orientation": 4.49
+    },
+    {
+      "Id": 181,
+      "CenterX": 297.934,
+      "CenterY": 106.87,
+      "SideLength": 21.397,
+      "Orientation": 0.345
+    },
+    {
+      "Id": 183,
+      "CenterX": 239.756,
+      "CenterY": 427.396,
+      "SideLength": 10.875,
+      "Orientation": 0.193
+    },
+    {
+      "Id": 194,
+      "CenterX": 251.137,
+      "CenterY": 417.342,
+      "SideLength": 30.774,
+      "Orientation": 6.149
+    },
+    {
+      "Id": 200,
+      "CenterX": 279.54,
+      "CenterY": 13.63,
+      "SideLength": 55.315,
+      "Orientation": 4.409
+    },
+    {
+      "Id": 204,
+      "CenterX": 69.563,
+      "CenterY": 296.023,
+      "SideLength": 12.731,
+      "Orientation": 2.031
+    },
+    {
+      "Id": 205,
+      "CenterX": 226.335,
+      "CenterY": 217.295,
+      "SideLength": 81.808,
+      "Orientation": 2.287
+    },
+    {
+      "Id": 213,
+      "CenterX": 464.302,
+      "CenterY": 355.761,
+      "SideLength": 68.979,
+      "Orientation": 0.115
+    },
+    {
+      "Id": 221,
+      "CenterX": 229.836,
+      "CenterY": 334.389,
+      "SideLength": 90.2,
+      "Orientation": 0.92
+    },
+    {
+      "Id": 229,
+      "CenterX": 366.277,
+      "CenterY": 151.55,
+      "SideLength": 59.229,
+      "Orientation": 1.365
+    },
+    {
+      "Id": 231,
+      "CenterX": 277.427,
+      "CenterY": 150.674,
+      "SideLength": 53.147,
+      "Orientation": 4.162
+    },
+    {
+      "Id": 243,
+      "CenterX": 281.499,
+      "CenterY": 56.557,
+      "SideLength": 17.652,
+      "Orientation": 1.43
+    },
+    {
+      "Id": 259,
+      "CenterX": 388.012,
+      "CenterY": 406.099,
+      "SideLength": 38.703,
+      "Orientation": 2.997
+    },
+    {
+      "Id": 261,
+      "CenterX": 34.571,
+      "CenterY": 301.902,
+      "SideLength": 38.831,
+      "Orientation": 6.155
+    },
+    {
+      "Id": 269,
+      "CenterX": 435.688,
+      "CenterY": 457.885,
+      "SideLength": 20.743,
+      "Orientation": 4.335
+    },
+    {
+      "Id": 270,
+      "CenterX": 108.825,
+      "CenterY": 421.39,
+      "SideLength": 13.464,
+      "Orientation": 0.784
+    },
+    {
+      "Id": 278,
+      "CenterX": 198.328,
+      "CenterY": 402.718,
+      "SideLength": 41.76,
+      "Orientation": 6.241
+    },
+    {
+      "Id": 279,
+      "CenterX": 248.203,
+      "CenterY": 376.018,
+      "SideLength": 25.187,
+      "Orientation": 1.245
+    },
+    {
+      "Id": 282,
+      "CenterX": 336.845,
+      "CenterY": 145.208,
+      "SideLength": 5.283,
+      "Orientation": 1.611
+    },
+    {
+      "Id": 285,
+      "CenterX": 27.946,
+      "CenterY": 295.297,
+      "SideLength": 5.32,
+      "Orientation": 1.277
+    },
+    {
+      "Id": 293,
+      "CenterX": 279.286,
+      "CenterY": 289.771,
+      "SideLength": 69.327,
+      "Orientation": 0.079
+    },
+    {
+      "Id": 295,
+      "CenterX": 26.832,
+      "CenterY": 125.541,
+      "SideLength": 50.395,
+      "Orientation": 2.623
+    },
+    {
+      "Id": 296,
+      "CenterX": 412.998,
+      "CenterY": 218.877,
+      "SideLength": 87.55,
+      "Orientation": 4.353
+    },
+    {
+      "Id": 297,
+      "CenterX": 100.919,
+      "CenterY": 382.408,
+      "SideLength": 27.477,
+      "Orientation": 0.121
+    },
+    {
+      "Id": 298,
+      "CenterX": 365.085,
+      "CenterY": 367.282,
+      "SideLength": 8.695,
+      "Orientation": 3.909
+    },
+    {
+      "Id": 306,
+      "CenterX": 263.829,
+      "CenterY": 321.094,
+      "SideLength": 4.762,
+      "Orientation": 4.188
+    },
+    {
+      "Id": 309,
+      "CenterX": 132.57,
+      "CenterY": 368.55,
+      "SideLength": 59.232,
+      "Orientation": 5.856
+    },
+    {
+      "Id": 311,
+      "CenterX": 454.504,
+      "CenterY": 5.981,
+      "SideLength": 67.807,
+      "Orientation": 3.082
+    },
+    {
+      "Id": 332,
+      "CenterX": 404.953,
+      "CenterY": 250.2,
+      "SideLength": 96.756,
+      "Orientation": 4.924
+    },
+    {
+      "Id": 338,
+      "CenterX": 3.122,
+      "CenterY": 215.669,
+      "SideLength": 45.729,
+      "Orientation": 4.34
+    },
+    {
+      "Id": 348,
+      "CenterX": 194.884,
+      "CenterY": 48.058,
+      "SideLength": 67.112,
+      "Orientation": 3.099
+    },
+    {
+      "Id": 364,
+      "CenterX": 326.689,
+      "CenterY": 212.426,
+      "SideLength": 7.286,
+      "Orientation": 5.691
+    },
+    {
+      "Id": 368,
+      "CenterX": 451.534,
+      "CenterY": 426.54,
+      "SideLength": 9.952,
+      "Orientation": 5.287
+    },
+    {
+      "Id": 370,
+      "CenterX": 339.367,
+      "CenterY": 354.881,
+      "SideLength": 14.45,
+      "Orientation": 0.425
+    },
+    {
+      "Id": 378,
+      "CenterX": 36.204,
+      "CenterY": 458.326,
+      "SideLength": 40.598,
+      "Orientation": 4.793
+    },
+    {
+      "Id": 382,
+      "CenterX": 453.23,
+      "CenterY": 100.853,
+      "SideLength": 36.049,
+      "Orientation": 2.014
+    },
+    {
+      "Id": 383,
+      "CenterX": 324.866,
+      "CenterY": 302.73,
+      "SideLength": 58.082,
+      "Orientation": 5.136
+    },
+    {
+      "Id": 393,
+      "CenterX": 389.331,
+      "CenterY": 270.866,
+      "SideLength": 92.939,
+      "Orientation": 5.036
+    },
+    {
+      "Id": 403,
+      "CenterX": 424.234,
+      "CenterY": 106.158,
+      "SideLength": 59.115,
+      "Orientation": 6.18
+    },
+    {
+      "Id": 425,
+      "CenterX": 141.751,
+      "CenterY": 118.316,
+      "SideLength": 94.557,
+      "Orientation": 2.51
+    },
+    {
+      "Id": 431,
+      "CenterX": 319.75,
+      "CenterY": 2.17,
+      "SideLength": 6.06,
+      "Orientation": 1.178
+    },
+    {
+      "Id": 432,
+      "CenterX": 115.687,
+      "CenterY": 116.771,
+      "SideLength": 50.43,
+      "Orientation": 5.771
+    },
+    {
+      "Id": 443,
+      "CenterX": 409.968,
+      "CenterY": 113.239,
+      "SideLength": 81.343,
+      "Orientation": 3.461
+    },
+    {
+      "Id": 452,
+      "CenterX": 274.131,
+      "CenterY": 245.198,
+      "SideLength": 19.873,
+      "Orientation": 0.334
+    },
+    {
+      "Id": 457,
+      "CenterX": 182.842,
+      "CenterY": 239.815,
+      "SideLength": 0.089,
+      "Orientation": 5.076
+    },
+    {
+      "Id": 458,
+      "CenterX": 7.33,
+      "CenterY": 457.077,
+      "SideLength": 45.863,
+      "Orientation": 4.318
+    },
+    {
+      "Id": 460,
+      "CenterX": 356.876,
+      "CenterY": 398.618,
+      "SideLength": 16.082,
+      "Orientation": 3.91
+    },
+    {
+      "Id": 469,
+      "CenterX": 432.036,
+      "CenterY": 11.523,
+      "SideLength": 38.896,
+      "Orientation": 3.413
+    },
+    {
+      "Id": 475,
+      "CenterX": 133.119,
+      "CenterY": 164.726,
+      "SideLength": 13.481,
+      "Orientation": 1.814
+    },
+    {
+      "Id": 484,
+      "CenterX": 91.838,
+      "CenterY": 201.466,
+      "SideLength": 35.746,
+      "Orientation": 0.532
+    },
+    {
+      "Id": 485,
+      "CenterX": 434.868,
+      "CenterY": 220.717,
+      "SideLength": 12.64,
+      "Orientation": 1.895
+    },
+    {
+      "Id": 488,
+      "CenterX": 461.827,
+      "CenterY": 381.834,
+      "SideLength": 63.29,
+      "Orientation": 1.815
+    },
+    {
+      "Id": 489,
+      "CenterX": 189.231,
+      "CenterY": 273.378,
+      "SideLength": 9.613,
+      "Orientation": 6.225
+    },
+    {
+      "Id": 492,
+      "CenterX": 127.703,
+      "CenterY": 396.758,
+      "SideLength": 73.089,
+      "Orientation": 2.132
+    },
+    {
+      "Id": 499,
+      "CenterX": 425.763,
+      "CenterY": 301.054,
+      "SideLength": 79.462,
+      "Orientation": 1.352
+    }
+  ],
+  "Ellipses": [
+    {
+      "Id": 8,
+      "CenterX": 14.473,
+      "CenterY": 327.076,
+      "R1": 16.055,
+      "R2": 36.345,
+      "Orientation": 3.925
+    },
+    {
+      "Id": 10,
+      "CenterX": 190.623,
+      "CenterY": 335.372,
+      "R1": 41.726,
+      "R2": 39.256,
+      "Orientation": 6.277
+    },
+    {
+      "Id": 13,
+      "CenterX": 490.97,
+      "CenterY": 231.539,
+      "R1": 7.937,
+      "R2": 34.024,
+      "Orientation": 4.39
+    },
+    {
+      "Id": 20,
+      "CenterX": 316.293,
+      "CenterY": 302.307,
+      "R1": 1.753,
+      "R2": 45.057,
+      "Orientation": 2.378
+    },
+    {
+      "Id": 23,
+      "CenterX": 185.157,
+      "CenterY": 379.309,
+      "R1": 9.784,
+      "R2": 22.376,
+      "Orientation": 2.98
+    },
+    {
+      "Id": 42,
+      "CenterX": 55.513,
+      "CenterY": 359.945,
+      "R1": 40.114,
+      "R2": 4.501,
+      "Orientation": 0.295
+    },
+    {
+      "Id": 45,
+      "CenterX": 340.402,
+      "CenterY": 364.734,
+      "R1": 30.742,
+      "R2": 34.672,
+      "Orientation": 2.53
+    },
+    {
+      "Id": 46,
+      "CenterX": 460.087,
+      "CenterY": 227.964,
+      "R1": 2.423,
+      "R2": 29.092,
+      "Orientation": 1.3
+    },
+    {
+      "Id": 49,
+      "CenterX": 189.27,
+      "CenterY": 291.317,
+      "R1": 46.818,
+      "R2": 1.908,
+      "Orientation": 0.354
+    },
+    {
+      "Id": 58,
+      "CenterX": 62.667,
+      "CenterY": 194.694,
+      "R1": 23.835,
+      "R2": 30.788,
+      "Orientation": 1.052
+    },
+    {
+      "Id": 60,
+      "CenterX": 166.489,
+      "CenterY": 412.001,
+      "R1": 24.093,
+      "R2": 34.997,
+      "Orientation": 3.605
+    },
+    {
+      "Id": 72,
+      "CenterX": 262.031,
+      "CenterY": 316.524,
+      "R1": 46.271,
+      "R2": 41.203,
+      "Orientation": 3.71
+    },
+    {
+      "Id": 73,
+      "CenterX": 80.221,
+      "CenterY": 292.356,
+      "R1": 29.749,
+      "R2": 28.99,
+      "Orientation": 3.915
+    },
+    {
+      "Id": 76,
+      "CenterX": 78.029,
+      "CenterY": 338.217,
+      "R1": 2.591,
+      "R2": 28.264,
+      "Orientation": 1.446
+    },
+    {
+      "Id": 85,
+      "CenterX": 211.549,
+      "CenterY": 59.899,
+      "R1": 16.929,
+      "R2": 31.694,
+      "Orientation": 4.191
+    },
+    {
+      "Id": 86,
+      "CenterX": 416.46,
+      "CenterY": 454.19,
+      "R1": 13.073,
+      "R2": 15.513,
+      "Orientation": 5.791
+    },
+    {
+      "Id": 94,
+      "CenterX": 113.863,
+      "CenterY": 208.986,
+      "R1": 37.902,
+      "R2": 25.486,
+      "Orientation": 1.102
+    },
+    {
+      "Id": 95,
+      "CenterX": 365.954,
+      "CenterY": 295.245,
+      "R1": 14.358,
+      "R2": 35.543,
+      "Orientation": 6.205
+    },
+    {
+      "Id": 99,
+      "CenterX": 159.987,
+      "CenterY": 393.741,
+      "R1": 45.057,
+      "R2": 12.847,
+      "Orientation": 1.276
+    },
+    {
+      "Id": 100,
+      "CenterX": 427.324,
+      "CenterY": 499.361,
+      "R1": 46.785,
+      "R2": 43.936,
+      "Orientation": 0.728
+    },
+    {
+      "Id": 101,
+      "CenterX": 162.768,
+      "CenterY": 371.226,
+      "R1": 9.396,
+      "R2": 18.432,
+      "Orientation": 1.555
+    },
+    {
+      "Id": 113,
+      "CenterX": 484.948,
+      "CenterY": 430.469,
+      "R1": 31.433,
+      "R2": 0.51,
+      "Orientation": 4.534
+    },
+    {
+      "Id": 117,
+      "CenterX": 104.194,
+      "CenterY": 317.364,
+      "R1": 46.969,
+      "R2": 21.998,
+      "Orientation": 0.881
+    },
+    {
+      "Id": 120,
+      "CenterX": 172.055,
+      "CenterY": 436.134,
+      "R1": 24.444,
+      "R2": 47.668,
+      "Orientation": 0.833
+    },
+    {
+      "Id": 123,
+      "CenterX": 147.367,
+      "CenterY": 323.625,
+      "R1": 45.345,
+      "R2": 8.088,
+      "Orientation": 5.254
+    },
+    {
+      "Id": 130,
+      "CenterX": 166.073,
+      "CenterY": 464.453,
+      "R1": 3.873,
+      "R2": 3.863,
+      "Orientation": 5.509
+    },
+    {
+      "Id": 132,
+      "CenterX": 187.642,
+      "CenterY": 481.036,
+      "R1": 1.667,
+      "R2": 18.885,
+      "Orientation": 1.387
+    },
+    {
+      "Id": 136,
+      "CenterX": 354.002,
+      "CenterY": 446.476,
+      "R1": 48.792,
+      "R2": 1.994,
+      "Orientation": 3.169
+    },
+    {
+      "Id": 139,
+      "CenterX": 474.014,
+      "CenterY": 367.304,
+      "R1": 12.59,
+      "R2": 40.323,
+      "Orientation": 5.282
+    },
+    {
+      "Id": 161,
+      "CenterX": 59.173,
+      "CenterY": 499.968,
+      "R1": 9.639,
+      "R2": 41.871,
+      "Orientation": 1.914
+    },
+    {
+      "Id": 164,
+      "CenterX": 62.497,
+      "CenterY": 353.616,
+      "R1": 48.733,
+      "R2": 24.472,
+      "Orientation": 6.052
+    },
+    {
+      "Id": 171,
+      "CenterX": 54.89,
+      "CenterY": 258.063,
+      "R1": 12.353,
+      "R2": 21.251,
+      "Orientation": 5.435
+    },
+    {
+      "Id": 172,
+      "CenterX": 81.293,
+      "CenterY": 411.944,
+      "R1": 27.232,
+      "R2": 0.44,
+      "Orientation": 2.132
+    },
+    {
+      "Id": 180,
+      "CenterX": 356.805,
+      "CenterY": 181.811,
+      "R1": 20.468,
+      "R2": 34.27,
+      "Orientation": 1.327
+    },
+    {
+      "Id": 184,
+      "CenterX": 192.503,
+      "CenterY": 136.588,
+      "R1": 30.911,
+      "R2": 42.908,
+      "Orientation": 5.833
+    },
+    {
+      "Id": 188,
+      "CenterX": 241.537,
+      "CenterY": 350.592,
+      "R1": 29.485,
+      "R2": 30.172,
+      "Orientation": 6.043
+    },
+    {
+      "Id": 195,
+      "CenterX": 286.766,
+      "CenterY": 100.386,
+      "R1": 32.764,
+      "R2": 21.449,
+      "Orientation": 3.388
+    },
+    {
+      "Id": 196,
+      "CenterX": 161.969,
+      "CenterY": 252.059,
+      "R1": 10.266,
+      "R2": 7.421,
+      "Orientation": 4.455
+    },
+    {
+      "Id": 199,
+      "CenterX": 303.436,
+      "CenterY": 312.38,
+      "R1": 5.351,
+      "R2": 27.763,
+      "Orientation": 5.571
+    },
+    {
+      "Id": 207,
+      "CenterX": 143.162,
+      "CenterY": 82.356,
+      "R1": 13.72,
+      "R2": 44.07,
+      "Orientation": 4.504
+    },
+    {
+      "Id": 211,
+      "CenterX": 163.522,
+      "CenterY": 52.954,
+      "R1": 39.388,
+      "R2": 37.835,
+      "Orientation": 4.083
+    },
+    {
+      "Id": 218,
+      "CenterX": 446.108,
+      "CenterY": 27.989,
+      "R1": 33.824,
+      "R2": 9.324,
+      "Orientation": 2.711
+    },
+    {
+      "Id": 219,
+      "CenterX": 26.376,
+      "CenterY": 5.004,
+      "R1": 5.488,
+      "R2": 18.942,
+      "Orientation": 2.991
+    },
+    {
+      "Id": 227,
+      "CenterX": 35.647,
+      "CenterY": 168.126,
+      "R1": 11.011,
+      "R2": 21.308,
+      "Orientation": 2.122
+    },
+    {
+      "Id": 235,
+      "CenterX": 439.608,
+      "CenterY": 307.707,
+      "R1": 35.039,
+      "R2": 9.83,
+      "Orientation": 6.017
+    },
+    {
+      "Id": 240,
+      "CenterX": 442.637,
+      "CenterY": 123.394,
+      "R1": 24.963,
+      "R2": 5.765,
+      "Orientation": 4.77
+    },
+    {
+      "Id": 245,
+      "CenterX": 321.556,
+      "CenterY": 208.504,
+      "R1": 25.236,
+      "R2": 21.217,
+      "Orientation": 2.617
+    },
+    {
+      "Id": 249,
+      "CenterX": 311.543,
+      "CenterY": 76.271,
+      "R1": 37.943,
+      "R2": 9.743,
+      "Orientation": 2.574
+    },
+    {
+      "Id": 252,
+      "CenterX": 134.653,
+      "CenterY": 387.176,
+      "R1": 18.593,
+      "R2": 3.841,
+      "Orientation": 0.206
+    },
+    {
+      "Id": 260,
+      "CenterX": 46.631,
+      "CenterY": 212.396,
+      "R1": 26.114,
+      "R2": 37.933,
+      "Orientation": 2.761
+    },
+    {
+      "Id": 264,
+      "CenterX": 53.038,
+      "CenterY": 126.883,
+      "R1": 49.272,
+      "R2": 9.802,
+      "Orientation": 3.441
+    },
+    {
+      "Id": 266,
+      "CenterX": 241.395,
+      "CenterY": 305.647,
+      "R1": 38.916,
+      "R2": 14.365,
+      "Orientation": 4.046
+    },
+    {
+      "Id": 273,
+      "CenterX": 418.375,
+      "CenterY": 41.218,
+      "R1": 32.039,
+      "R2": 33.425,
+      "Orientation": 1.505
+    },
+    {
+      "Id": 274,
+      "CenterX": 241.674,
+      "CenterY": 261.851,
+      "R1": 47.57,
+      "R2": 22.626,
+      "Orientation": 5.216
+    },
+    {
+      "Id": 289,
+      "CenterX": 418.583,
+      "CenterY": 342.267,
+      "R1": 22.336,
+      "R2": 23.554,
+      "Orientation": 3.402
+    },
+    {
+      "Id": 301,
+      "CenterX": 484.707,
+      "CenterY": 206.335,
+      "R1": 17.766,
+      "R2": 13.108,
+      "Orientation": 6.134
+    },
+    {
+      "Id": 305,
+      "CenterX": 145.669,
+      "CenterY": 461.039,
+      "R1": 34.214,
+      "R2": 13.972,
+      "Orientation": 2.969
+    },
+    {
+      "Id": 307,
+      "CenterX": 166.481,
+      "CenterY": 449.622,
+      "R1": 48.864,
+      "R2": 19.054,
+      "Orientation": 5.966
+    },
+    {
+      "Id": 310,
+      "CenterX": 38.659,
+      "CenterY": 244.596,
+      "R1": 23.622,
+      "R2": 32.259,
+      "Orientation": 1.746
+    },
+    {
+      "Id": 316,
+      "CenterX": 78.72,
+      "CenterY": 211.978,
+      "R1": 44.364,
+      "R2": 14.96,
+      "Orientation": 5.595
+    },
+    {
+      "Id": 317,
+      "CenterX": 214.604,
+      "CenterY": 200.928,
+      "R1": 39.355,
+      "R2": 21.675,
+      "Orientation": 3.251
+    },
+    {
+      "Id": 319,
+      "CenterX": 401.49,
+      "CenterY": 373.765,
+      "R1": 40.187,
+      "R2": 2.221,
+      "Orientation": 2.792
+    },
+    {
+      "Id": 322,
+      "CenterX": 318.86,
+      "CenterY": 139.567,
+      "R1": 39.432,
+      "R2": 30.2,
+      "Orientation": 2.912
+    },
+    {
+      "Id": 330,
+      "CenterX": 60.599,
+      "CenterY": 103.588,
+      "R1": 6.572,
+      "R2": 4.308,
+      "Orientation": 5.462
+    },
+    {
+      "Id": 344,
+      "CenterX": 236.903,
+      "CenterY": 345.518,
+      "R1": 32.483,
+      "R2": 18.885,
+      "Orientation": 0.795
+    },
+    {
+      "Id": 345,
+      "CenterX": 493.039,
+      "CenterY": 190.842,
+      "R1": 13.654,
+      "R2": 10.268,
+      "Orientation": 4.057
+    },
+    {
+      "Id": 351,
+      "CenterX": 451.592,
+      "CenterY": 226.657,
+      "R1": 43.885,
+      "R2": 34.284,
+      "Orientation": 0.656
+    },
+    {
+      "Id": 353,
+      "CenterX": 64.859,
+      "CenterY": 275.954,
+      "R1": 47.464,
+      "R2": 37.658,
+      "Orientation": 4.469
+    },
+    {
+      "Id": 357,
+      "CenterX": 454.164,
+      "CenterY": 310.645,
+      "R1": 44.136,
+      "R2": 42.575,
+      "Orientation": 1.579
+    },
+    {
+      "Id": 362,
+      "CenterX": 482.718,
+      "CenterY": 53.798,
+      "R1": 22.706,
+      "R2": 26.565,
+      "Orientation": 5.447
+    },
+    {
+      "Id": 371,
+      "CenterX": 210.757,
+      "CenterY": 210.084,
+      "R1": 46.945,
+      "R2": 42.989,
+      "Orientation": 3.08
+    },
+    {
+      "Id": 387,
+      "CenterX": 112.576,
+      "CenterY": 170.67,
+      "R1": 49.731,
+      "R2": 40.235,
+      "Orientation": 4.737
+    },
+    {
+      "Id": 389,
+      "CenterX": 362.302,
+      "CenterY": 56.833,
+      "R1": 28.52,
+      "R2": 27.457,
+      "Orientation": 4.375
+    },
+    {
+      "Id": 390,
+      "CenterX": 492.085,
+      "CenterY": 423.014,
+      "R1": 6.767,
+      "R2": 48.956,
+      "Orientation": 1.182
+    },
+    {
+      "Id": 408,
+      "CenterX": 212.887,
+      "CenterY": 107.811,
+      "R1": 44.958,
+      "R2": 14.045,
+      "Orientation": 3.393
+    },
+    {
+      "Id": 410,
+      "CenterX": 88.896,
+      "CenterY": 375.17,
+      "R1": 40.242,
+      "R2": 24.809,
+      "Orientation": 3.583
+    },
+    {
+      "Id": 411,
+      "CenterX": 398.071,
+      "CenterY": 168.898,
+      "R1": 4.907,
+      "R2": 39.101,
+      "Orientation": 2.179
+    },
+    {
+      "Id": 426,
+      "CenterX": 415.189,
+      "CenterY": 132.984,
+      "R1": 37.019,
+      "R2": 41.938,
+      "Orientation": 0.172
+    },
+    {
+      "Id": 435,
+      "CenterX": 222.748,
+      "CenterY": 418.736,
+      "R1": 41.634,
+      "R2": 3.692,
+      "Orientation": 0.634
+    },
+    {
+      "Id": 438,
+      "CenterX": 460.351,
+      "CenterY": 210.22,
+      "R1": 25.691,
+      "R2": 15.488,
+      "Orientation": 4.765
+    },
+    {
+      "Id": 446,
+      "CenterX": 381.201,
+      "CenterY": 312.683,
+      "R1": 3.506,
+      "R2": 19.885,
+      "Orientation": 5.66
+    },
+    {
+      "Id": 450,
+      "CenterX": 35.592,
+      "CenterY": 470.912,
+      "R1": 42.141,
+      "R2": 25.57,
+      "Orientation": 2.906
+    },
+    {
+      "Id": 453,
+      "CenterX": 401.715,
+      "CenterY": 275.537,
+      "R1": 4.465,
+      "R2": 4.528,
+      "Orientation": 2.049
+    },
+    {
+      "Id": 462,
+      "CenterX": 263.831,
+      "CenterY": 295.721,
+      "R1": 12.198,
+      "R2": 25.574,
+      "Orientation": 2.597
+    },
+    {
+      "Id": 466,
+      "CenterX": 96.659,
+      "CenterY": 206.915,
+      "R1": 48.322,
+      "R2": 2.113,
+      "Orientation": 5.973
+    },
+    {
+      "Id": 467,
+      "CenterX": 149.036,
+      "CenterY": 76.4,
+      "R1": 31.006,
+      "R2": 22.159,
+      "Orientation": 2.991
+    },
+    {
+      "Id": 471,
+      "CenterX": 280.437,
+      "CenterY": 100.245,
+      "R1": 5.298,
+      "R2": 34.928,
+      "Orientation": 1.605
+    },
+    {
+      "Id": 473,
+      "CenterX": 489.137,
+      "CenterY": 391.713,
+      "R1": 20.97,
+      "R2": 40.072,
+      "Orientation": 1.029
+    },
+    {
+      "Id": 478,
+      "CenterX": 346.279,
+      "CenterY": 7.008,
+      "R1": 10.513,
+      "R2": 34.512,
+      "Orientation": 3.781
+    },
+    {
+      "Id": 481,
+      "CenterX": 261.836,
+      "CenterY": 50.13,
+      "R1": 34.331,
+      "R2": 44.053,
+      "Orientation": 4.956
+    },
+    {
+      "Id": 482,
+      "CenterX": 102.949,
+      "CenterY": 54.443,
+      "R1": 7.49,
+      "R2": 9.802,
+      "Orientation": 3.502
+    },
+    {
+      "Id": 495,
+      "CenterX": 90.974,
+      "CenterY": 302.779,
+      "R1": 42.648,
+      "R2": 49.614,
+      "Orientation": 0.906
+    },
+    {
+      "Id": 498,
+      "CenterX": 406.137,
+      "CenterY": 412.29,
+      "R1": 26.66,
+      "R2": 24.714,
+      "Orientation": 2.149
+    }
+  ],
+  "Circles": [
+    {
+      "Id": 1,
+      "CenterX": 465.357,
+      "CenterY": 174.094,
+      "Radius": 48.787
+    },
+    {
+      "Id": 11,
+      "CenterX": 196.507,
+      "CenterY": 256.28,
+      "Radius": 0.779
+    },
+    {
+      "Id": 15,
+      "CenterX": 451.535,
+      "CenterY": 168.704,
+      "Radius": 17.069
+    },
+    {
+      "Id": 18,
+      "CenterX": 300.071,
+      "CenterY": 497.36,
+      "Radius": 14.189
+    },
+    {
+      "Id": 22,
+      "CenterX": 256.103,
+      "CenterY": 27.803,
+      "Radius": 8.559
+    },
+    {
+      "Id": 34,
+      "CenterX": 281.545,
+      "CenterY": 144.861,
+      "Radius": 5.283
+    },
+    {
+      "Id": 38,
+      "CenterX": 300.421,
+      "CenterY": 302.472,
+      "Radius": 34.51
+    },
+    {
+      "Id": 40,
+      "CenterX": 271.639,
+      "CenterY": 11.588,
+      "Radius": 23.101
+    },
+    {
+      "Id": 43,
+      "CenterX": 235.877,
+      "CenterY": 406.095,
+      "Radius": 20.106
+    },
+    {
+      "Id": 52,
+      "CenterX": 69.945,
+      "CenterY": 443.212,
+      "Radius": 12.84
+    },
+    {
+      "Id": 53,
+      "CenterX": 116.259,
+      "CenterY": 341.382,
+      "Radius": 30.706
+    },
+    {
+      "Id": 55,
+      "CenterX": 299.348,
+      "CenterY": 364.475,
+      "Radius": 1.721
+    },
+    {
+      "Id": 57,
+      "CenterX": 202.224,
+      "CenterY": 56.373,
+      "Radius": 22.672
+    },
+    {
+      "Id": 67,
+      "CenterX": 481.116,
+      "CenterY": 280.515,
+      "Radius": 33.962
+    },
+    {
+      "Id": 68,
+      "CenterX": 470.696,
+      "CenterY": 21.758,
+      "Radius": 49.961
+    },
+    {
+      "Id": 71,
+      "CenterX": 454.572,
+      "CenterY": 79.855,
+      "Radius": 12.859
+    },
+    {
+      "Id": 78,
+      "CenterX": 369.651,
+      "CenterY": 174.465,
+      "Radius": 8.562
+    },
+    {
+      "Id": 87,
+      "CenterX": 86.467,
+      "CenterY": 332.166,
+      "Radius": 11.699
+    },
+    {
+      "Id": 90,
+      "CenterX": 20.765,
+      "CenterY": 290.077,
+      "Radius": 44.882
+    },
+    {
+      "Id": 97,
+      "CenterX": 257.148,
+      "CenterY": 264.972,
+      "Radius": 47.968
+    },
+    {
+      "Id": 98,
+      "CenterX": 282.69,
+      "CenterY": 156.973,
+      "Radius": 11.781
+    },
+    {
+      "Id": 103,
+      "CenterX": 74.241,
+      "CenterY": 362.968,
+      "Radius": 16.077
+    },
+    {
+      "Id": 108,
+      "CenterX": 103.081,
+      "CenterY": 145.083,
+      "Radius": 5.261
+    },
+    {
+      "Id": 109,
+      "CenterX": 257.846,
+      "CenterY": 144.901,
+      "Radius": 3.907
+    },
+    {
+      "Id": 111,
+      "CenterX": 349.072,
+      "CenterY": 365.827,
+      "Radius": 46.771
+    },
+    {
+      "Id": 118,
+      "CenterX": 117.558,
+      "CenterY": 64.798,
+      "Radius": 13.699
+    },
+    {
+      "Id": 125,
+      "CenterX": 34.262,
+      "CenterY": 58.214,
+      "Radius": 41.905
+    },
+    {
+      "Id": 128,
+      "CenterX": 118.22,
+      "CenterY": 343.864,
+      "Radius": 31.456
+    },
+    {
+      "Id": 141,
+      "CenterX": 112.011,
+      "CenterY": 339.331,
+      "Radius": 18.383
+    },
+    {
+      "Id": 151,
+      "CenterX": 91.189,
+      "CenterY": 205.34,
+      "Radius": 37.546
+    },
+    {
+      "Id": 152,
+      "CenterX": 472.033,
+      "CenterY": 219.492,
+      "Radius": 45.603
+    },
+    {
+      "Id": 173,
+      "CenterX": 340.982,
+      "CenterY": 97.94,
+      "Radius": 8.062
+    },
+    {
+      "Id": 174,
+      "CenterX": 489.752,
+      "CenterY": 327.465,
+      "Radius": 45.428
+    },
+    {
+      "Id": 175,
+      "CenterX": 213.43,
+      "CenterY": 276.215,
+      "Radius": 17.084
+    },
+    {
+      "Id": 177,
+      "CenterX": 87.226,
+      "CenterY": 215.024,
+      "Radius": 35.599
+    },
+    {
+      "Id": 179,
+      "CenterX": 334.49,
+      "CenterY": 47.504,
+      "Radius": 25.681
+    },
+    {
+      "Id": 182,
+      "CenterX": 281.179,
+      "CenterY": 30.226,
+      "Radius": 22.477
+    },
+    {
+      "Id": 186,
+      "CenterX": 32.134,
+      "CenterY": 121.555,
+      "Radius": 43.426
+    },
+    {
+      "Id": 187,
+      "CenterX": 372.696,
+      "CenterY": 275.595,
+      "Radius": 37.856
+    },
+    {
+      "Id": 189,
+      "CenterX": 407.304,
+      "CenterY": 378.968,
+      "Radius": 12.831
+    },
+    {
+      "Id": 203,
+      "CenterX": 377.628,
+      "CenterY": 251.484,
+      "Radius": 21.406
+    },
+    {
+      "Id": 206,
+      "CenterX": 187.348,
+      "CenterY": 314.477,
+      "Radius": 2.227
+    },
+    {
+      "Id": 209,
+      "CenterX": 402.66,
+      "CenterY": 459.098,
+      "Radius": 41.342
+    },
+    {
+      "Id": 212,
+      "CenterX": 331.86,
+      "CenterY": 387.546,
+      "Radius": 22.927
+    },
+    {
+      "Id": 214,
+      "CenterX": 426.505,
+      "CenterY": 78.18,
+      "Radius": 43.692
+    },
+    {
+      "Id": 217,
+      "CenterX": 53.481,
+      "CenterY": 427.009,
+      "Radius": 49.993
+    },
+    {
+      "Id": 224,
+      "CenterX": 258.931,
+      "CenterY": 421.813,
+      "Radius": 19.897
+    },
+    {
+      "Id": 228,
+      "CenterX": 301.029,
+      "CenterY": 70.157,
+      "Radius": 10.663
+    },
+    {
+      "Id": 230,
+      "CenterX": 86.723,
+      "CenterY": 291.693,
+      "Radius": 21.864
+    },
+    {
+      "Id": 233,
+      "CenterX": 132.225,
+      "CenterY": 301.282,
+      "Radius": 40.516
+    },
+    {
+      "Id": 234,
+      "CenterX": 19.357,
+      "CenterY": 256.776,
+      "Radius": 8.503
+    },
+    {
+      "Id": 238,
+      "CenterX": 388.498,
+      "CenterY": 352.085,
+      "Radius": 41.094
+    },
+    {
+      "Id": 239,
+      "CenterX": 179.129,
+      "CenterY": 171.829,
+      "Radius": 43.979
+    },
+    {
+      "Id": 250,
+      "CenterX": 417.956,
+      "CenterY": 334.045,
+      "Radius": 22.745
+    },
+    {
+      "Id": 251,
+      "CenterX": 228.587,
+      "CenterY": 453.594,
+      "Radius": 45.649
+    },
+    {
+      "Id": 254,
+      "CenterX": 237.599,
+      "CenterY": 231.295,
+      "Radius": 48.305
+    },
+    {
+      "Id": 255,
+      "CenterX": 222.865,
+      "CenterY": 50.504,
+      "Radius": 19.424
+    },
+    {
+      "Id": 258,
+      "CenterX": 145.179,
+      "CenterY": 141.045,
+      "Radius": 48.817
+    },
+    {
+      "Id": 262,
+      "CenterX": 202.521,
+      "CenterY": 209.491,
+      "Radius": 18.316
+    },
+    {
+      "Id": 267,
+      "CenterX": 128.917,
+      "CenterY": 308.237,
+      "Radius": 46.194
+    },
+    {
+      "Id": 283,
+      "CenterX": 167.788,
+      "CenterY": 99.574,
+      "Radius": 37.365
+    },
+    {
+      "Id": 288,
+      "CenterX": 439.582,
+      "CenterY": 176.489,
+      "Radius": 0.829
+    },
+    {
+      "Id": 308,
+      "CenterX": 452.787,
+      "CenterY": 150.687,
+      "Radius": 27.813
+    },
+    {
+      "Id": 314,
+      "CenterX": 381.347,
+      "CenterY": 343.106,
+      "Radius": 36.245
+    },
+    {
+      "Id": 326,
+      "CenterX": 172.129,
+      "CenterY": 356.553,
+      "Radius": 37.361
+    },
+    {
+      "Id": 335,
+      "CenterX": 397.903,
+      "CenterY": 142.022,
+      "Radius": 21.502
+    },
+    {
+      "Id": 336,
+      "CenterX": 155.136,
+      "CenterY": 378.688,
+      "Radius": 31.434
+    },
+    {
+      "Id": 342,
+      "CenterX": 413.022,
+      "CenterY": 145.012,
+      "Radius": 48.087
+    },
+    {
+      "Id": 346,
+      "CenterX": 304.806,
+      "CenterY": 80.153,
+      "Radius": 20.491
+    },
+    {
+      "Id": 359,
+      "CenterX": 7.37,
+      "CenterY": 67.374,
+      "Radius": 19.864
+    },
+    {
+      "Id": 360,
+      "CenterX": 135.332,
+      "CenterY": 201.348,
+      "Radius": 0.75
+    },
+    {
+      "Id": 363,
+      "CenterX": 143.734,
+      "CenterY": 420.77,
+      "Radius": 28.122
+    },
+    {
+      "Id": 366,
+      "CenterX": 35.64,
+      "CenterY": 373.311,
+      "Radius": 8.357
+    },
+    {
+      "Id": 367,
+      "CenterX": 151.243,
+      "CenterY": 206.131,
+      "Radius": 46.608
+    },
+    {
+      "Id": 373,
+      "CenterX": 156.181,
+      "CenterY": 483.148,
+      "Radius": 49.627
+    },
+    {
+      "Id": 377,
+      "CenterX": 197.381,
+      "CenterY": 261.378,
+      "Radius": 18.994
+    },
+    {
+      "Id": 380,
+      "CenterX": 287.588,
+      "CenterY": 190.173,
+      "Radius": 6.163
+    },
+    {
+      "Id": 381,
+      "CenterX": 380.129,
+      "CenterY": 47.886,
+      "Radius": 25.175
+    },
+    {
+      "Id": 384,
+      "CenterX": 219.628,
+      "CenterY": 317.423,
+      "Radius": 45.029
+    },
+    {
+      "Id": 386,
+      "CenterX": 403.607,
+      "CenterY": 435.766,
+      "Radius": 46.115
+    },
+    {
+      "Id": 392,
+      "CenterX": 470.513,
+      "CenterY": 420.508,
+      "Radius": 3.832
+    },
+    {
+      "Id": 395,
+      "CenterX": 52.575,
+      "CenterY": 379.483,
+      "Radius": 2.818
+    },
+    {
+      "Id": 397,
+      "CenterX": 348.853,
+      "CenterY": 348.502,
+      "Radius": 17.147
+    },
+    {
+      "Id": 399,
+      "CenterX": 234.044,
+      "CenterY": 427.647,
+      "Radius": 10.264
+    },
+    {
+      "Id": 400,
+      "CenterX": 166.182,
+      "CenterY": 116.31,
+      "Radius": 34.643
+    },
+    {
+      "Id": 407,
+      "CenterX": 493.504,
+      "CenterY": 196.189,
+      "Radius": 14.071
+    },
+    {
+      "Id": 409,
+      "CenterX": 298.289,
+      "CenterY": 203.801,
+      "Radius": 22.31
+    },
+    {
+      "Id": 412,
+      "CenterX": 332.079,
+      "CenterY": 101.001,
+      "Radius": 32.504
+    },
+    {
+      "Id": 419,
+      "CenterX": 71.819,
+      "CenterY": 82.889,
+      "Radius": 21.412
+    },
+    {
+      "Id": 422,
+      "CenterX": 365.368,
+      "CenterY": 71.768,
+      "Radius": 10.53
+    },
+    {
+      "Id": 423,
+      "CenterX": 12.737,
+      "CenterY": 198.39,
+      "Radius": 30.877
+    },
+    {
+      "Id": 427,
+      "CenterX": 182.969,
+      "CenterY": 362.707,
+      "Radius": 25.721
+    },
+    {
+      "Id": 429,
+      "CenterX": 8.94,
+      "CenterY": 468.331,
+      "Radius": 27.96
+    },
+    {
+      "Id": 430,
+      "CenterX": 477.017,
+      "CenterY": 263.26,
+      "Radius": 49.885
+    },
+    {
+      "Id": 434,
+      "CenterX": 82.817,
+      "CenterY": 173.42,
+      "Radius": 33.871
+    },
+    {
+      "Id": 440,
+      "CenterX": 296.282,
+      "CenterY": 442.858,
+      "Radius": 45.868
+    },
+    {
+      "Id": 447,
+      "CenterX": 140.286,
+      "CenterY": 246.175,
+      "Radius": 5.312
+    },
+    {
+      "Id": 463,
+      "CenterX": 425.682,
+      "CenterY": 437.805,
+      "Radius": 8.545
+    },
+    {
+      "Id": 474,
+      "CenterX": 123.793,
+      "CenterY": 42.198,
+      "Radius": 5.57
+    },
+    {
+      "Id": 476,
+      "CenterX": 27.106,
+      "CenterY": 466.399,
+      "Radius": 15.421
+    },
+    {
+      "Id": 483,
+      "CenterX": 208.74,
+      "CenterY": 35.314,
+      "Radius": 16.039
+    },
+    {
+      "Id": 493,
+      "CenterX": 446.083,
+      "CenterY": 93.184,
+      "Radius": 44.387
+    },
+    {
+      "Id": 494,
+      "CenterX": 492.03,
+      "CenterY": 6.931,
+      "Radius": 23.832
+    },
+    {
+      "Id": 496,
+      "CenterX": 249.133,
+      "CenterY": 464.626,
+      "Radius": 33.693
+    }
+  ],
+  "EquilateralTriangles": [
+    {
+      "Id": 6,
+      "CenterX": 177.483,
+      "CenterY": 394.762,
+      "SideLength": 82.009,
+      "Orientation": 2.719
+    },
+    {
+      "Id": 9,
+      "CenterX": 33.846,
+      "CenterY": 96.905,
+      "SideLength": 58.162,
+      "Orientation": 0.485
+    },
+    {
+      "Id": 12,
+      "CenterX": 335.749,
+      "CenterY": 18.194,
+      "SideLength": 43.643,
+      "Orientation": 1.408
+    },
+    {
+      "Id": 16,
+      "CenterX": 135.535,
+      "CenterY": 456.439,
+      "SideLength": 84.071,
+      "Orientation": 6.214
+    },
+    {
+      "Id": 17,
+      "CenterX": 364.228,
+      "CenterY": 1.814,
+      "SideLength": 18.458,
+      "Orientation": 4.316
+    },
+    {
+      "Id": 19,
+      "CenterX": 178.724,
+      "CenterY": 308.882,
+      "SideLength": 88.467,
+      "Orientation": 3.16
+    },
+    {
+      "Id": 24,
+      "CenterX": 489.156,
+      "CenterY": 139.25,
+      "SideLength": 47.175,
+      "Orientation": 1.321
+    },
+    {
+      "Id": 28,
+      "CenterX": 444.293,
+      "CenterY": 61.611,
+      "SideLength": 6.766,
+      "Orientation": 0.858
+    },
+    {
+      "Id": 30,
+      "CenterX": 366.724,
+      "CenterY": 284.858,
+      "SideLength": 79.224,
+      "Orientation": 4.859
+    },
+    {
+      "Id": 41,
+      "CenterX": 447.887,
+      "CenterY": 150.337,
+      "SideLength": 79.165,
+      "Orientation": 6.075
+    },
+    {
+      "Id": 47,
+      "CenterX": 155.79,
+      "CenterY": 83.086,
+      "SideLength": 24.008,
+      "Orientation": 2.852
+    },
+    {
+      "Id": 59,
+      "CenterX": 347.827,
+      "CenterY": 467.902,
+      "SideLength": 93.207,
+      "Orientation": 4.013
+    },
+    {
+      "Id": 61,
+      "CenterX": 11.042,
+      "CenterY": 51.723,
+      "SideLength": 80.699,
+      "Orientation": 1.06
+    },
+    {
+      "Id": 64,
+      "CenterX": 45.091,
+      "CenterY": 404.047,
+      "SideLength": 82.997,
+      "Orientation": 3.405
+    },
+    {
+      "Id": 65,
+      "CenterX": 336.716,
+      "CenterY": 42.634,
+      "SideLength": 72.885,
+      "Orientation": 2.402
+    },
+    {
+      "Id": 84,
+      "CenterX": 273.945,
+      "CenterY": 107.247,
+      "SideLength": 40.704,
+      "Orientation": 4.829
+    },
+    {
+      "Id": 88,
+      "CenterX": 380.871,
+      "CenterY": 147.954,
+      "SideLength": 47.665,
+      "Orientation": 5.233
+    },
+    {
+      "Id": 93,
+      "CenterX": 409.355,
+      "CenterY": 226.42,
+      "SideLength": 14.333,
+      "Orientation": 2.033
+    },
+    {
+      "Id": 96,
+      "CenterX": 298.726,
+      "CenterY": 406.073,
+      "SideLength": 39.66,
+      "Orientation": 5.671
+    },
+    {
+      "Id": 105,
+      "CenterX": 169.876,
+      "CenterY": 148.764,
+      "SideLength": 75.265,
+      "Orientation": 3.336
+    },
+    {
+      "Id": 114,
+      "CenterX": 333.023,
+      "CenterY": 185.658,
+      "SideLength": 31.079,
+      "Orientation": 2.889
+    },
+    {
+      "Id": 129,
+      "CenterX": 421.783,
+      "CenterY": 124.74,
+      "SideLength": 31.318,
+      "Orientation": 2.832
+    },
+    {
+      "Id": 145,
+      "CenterX": 375.51,
+      "CenterY": 194.048,
+      "SideLength": 61.337,
+      "Orientation": 3.259
+    },
+    {
+      "Id": 147,
+      "CenterX": 174.595,
+      "CenterY": 397.776,
+      "SideLength": 59.94,
+      "Orientation": 3.329
+    },
+    {
+      "Id": 150,
+      "CenterX": 258.597,
+      "CenterY": 226.436,
+      "SideLength": 92.542,
+      "Orientation": 0.115
+    },
+    {
+      "Id": 154,
+      "CenterX": 397.258,
+      "CenterY": 45.437,
+      "SideLength": 75.642,
+      "Orientation": 2.201
+    },
+    {
+      "Id": 162,
+      "CenterX": 216.648,
+      "CenterY": 347.876,
+      "SideLength": 40.645,
+      "Orientation": 3.428
+    },
+    {
+      "Id": 191,
+      "CenterX": 376.959,
+      "CenterY": 178.522,
+      "SideLength": 41.327,
+      "Orientation": 3.889
+    },
+    {
+      "Id": 192,
+      "CenterX": 461.207,
+      "CenterY": 50.165,
+      "SideLength": 95.243,
+      "Orientation": 4.378
+    },
+    {
+      "Id": 193,
+      "CenterX": 400.912,
+      "CenterY": 179.622,
+      "SideLength": 27.458,
+      "Orientation": 5.197
+    },
+    {
+      "Id": 197,
+      "CenterX": 431.189,
+      "CenterY": 183.868,
+      "SideLength": 28.748,
+      "Orientation": 6.005
+    },
+    {
+      "Id": 208,
+      "CenterX": 477.578,
+      "CenterY": 113.768,
+      "SideLength": 59.31,
+      "Orientation": 1.216
+    },
+    {
+      "Id": 210,
+      "CenterX": 45.941,
+      "CenterY": 434.818,
+      "SideLength": 68.142,
+      "Orientation": 6.096
+    },
+    {
+      "Id": 215,
+      "CenterX": 389.662,
+      "CenterY": 94.343,
+      "SideLength": 91.159,
+      "Orientation": 6.277
+    },
+    {
+      "Id": 220,
+      "CenterX": 321.14,
+      "CenterY": 247.975,
+      "SideLength": 79.425,
+      "Orientation": 0.054
+    },
+    {
+      "Id": 222,
+      "CenterX": 170.073,
+      "CenterY": 116.079,
+      "SideLength": 33.652,
+      "Orientation": 3.937
+    },
+    {
+      "Id": 223,
+      "CenterX": 233.954,
+      "CenterY": 251.852,
+      "SideLength": 49.309,
+      "Orientation": 0.462
+    },
+    {
+      "Id": 232,
+      "CenterX": 147.745,
+      "CenterY": 273.05,
+      "SideLength": 99.795,
+      "Orientation": 1.261
+    },
+    {
+      "Id": 236,
+      "CenterX": 222.888,
+      "CenterY": 413.759,
+      "SideLength": 4.87,
+      "Orientation": 0.294
+    },
+    {
+      "Id": 241,
+      "CenterX": 198.226,
+      "CenterY": 99.046,
+      "SideLength": 94.675,
+      "Orientation": 5.111
+    },
+    {
+      "Id": 253,
+      "CenterX": 41.818,
+      "CenterY": 359.252,
+      "SideLength": 2.897,
+      "Orientation": 5.114
+    },
+    {
+      "Id": 257,
+      "CenterX": 54.409,
+      "CenterY": 376.99,
+      "SideLength": 97.825,
+      "Orientation": 1.623
+    },
+    {
+      "Id": 263,
+      "CenterX": 228.763,
+      "CenterY": 341.339,
+      "SideLength": 59.455,
+      "Orientation": 3.42
+    },
+    {
+      "Id": 265,
+      "CenterX": 420.739,
+      "CenterY": 484.303,
+      "SideLength": 51.172,
+      "Orientation": 0.996
+    },
+    {
+      "Id": 268,
+      "CenterX": 252.508,
+      "CenterY": 182.833,
+      "SideLength": 99.861,
+      "Orientation": 4.398
+    },
+    {
+      "Id": 276,
+      "CenterX": 460.223,
+      "CenterY": 483.549,
+      "SideLength": 37.808,
+      "Orientation": 1.173
+    },
+    {
+      "Id": 280,
+      "CenterX": 155.339,
+      "CenterY": 125.612,
+      "SideLength": 14.259,
+      "Orientation": 6.102
+    },
+    {
+      "Id": 281,
+      "CenterX": 94.565,
+      "CenterY": 37.181,
+      "SideLength": 24.364,
+      "Orientation": 1.291
+    },
+    {
+      "Id": 286,
+      "CenterX": 85.644,
+      "CenterY": 375.291,
+      "SideLength": 38.642,
+      "Orientation": 0.444
+    },
+    {
+      "Id": 290,
+      "CenterX": 157.297,
+      "CenterY": 498.732,
+      "SideLength": 32.349,
+      "Orientation": 1.465
+    },
+    {
+      "Id": 292,
+      "CenterX": 260.625,
+      "CenterY": 18.221,
+      "SideLength": 72.325,
+      "Orientation": 1.234
+    },
+    {
+      "Id": 294,
+      "CenterX": 470.617,
+      "CenterY": 279.084,
+      "SideLength": 56.32,
+      "Orientation": 1.298
+    },
+    {
+      "Id": 299,
+      "CenterX": 401.891,
+      "CenterY": 288.031,
+      "SideLength": 56.907,
+      "Orientation": 4.314
+    },
+    {
+      "Id": 302,
+      "CenterX": 325.208,
+      "CenterY": 148.996,
+      "SideLength": 67.594,
+      "Orientation": 4.354
+    },
+    {
+      "Id": 303,
+      "CenterX": 272.778,
+      "CenterY": 195.26,
+      "SideLength": 73.997,
+      "Orientation": 0.423
+    },
+    {
+      "Id": 304,
+      "CenterX": 126.683,
+      "CenterY": 69.52,
+      "SideLength": 90.586,
+      "Orientation": 4.955
+    },
+    {
+      "Id": 312,
+      "CenterX": 491.359,
+      "CenterY": 251.859,
+      "SideLength": 51.427,
+      "Orientation": 0.771
+    },
+    {
+      "Id": 313,
+      "CenterX": 314.161,
+      "CenterY": 13.2,
+      "SideLength": 43.657,
+      "Orientation": 1.336
+    },
+    {
+      "Id": 318,
+      "CenterX": 355.35,
+      "CenterY": 77.876,
+      "SideLength": 71.945,
+      "Orientation": 5.028
+    },
+    {
+      "Id": 320,
+      "CenterX": 458.919,
+      "CenterY": 325.938,
+      "SideLength": 30.561,
+      "Orientation": 3.638
+    },
+    {
+      "Id": 321,
+      "CenterX": 161.36,
+      "CenterY": 196.141,
+      "SideLength": 8.429,
+      "Orientation": 3.054
+    },
+    {
+      "Id": 323,
+      "CenterX": 223.249,
+      "CenterY": 206.116,
+      "SideLength": 83.161,
+      "Orientation": 5.136
+    },
+    {
+      "Id": 324,
+      "CenterX": 288.352,
+      "CenterY": 194.691,
+      "SideLength": 47.428,
+      "Orientation": 5.882
+    },
+    {
+      "Id": 325,
+      "CenterX": 190.391,
+      "CenterY": 403.682,
+      "SideLength": 23.549,
+      "Orientation": 2.653
+    },
+    {
+      "Id": 328,
+      "CenterX": 146.731,
+      "CenterY": 283.014,
+      "SideLength": 4.141,
+      "Orientation": 3.987
+    },
+    {
+      "Id": 331,
+      "CenterX": 192.415,
+      "CenterY": 376.773,
+      "SideLength": 5.647,
+      "Orientation": 4.942
+    },
+    {
+      "Id": 333,
+      "CenterX": 155.294,
+      "CenterY": 444.702,
+      "SideLength": 56.167,
+      "Orientation": 0.22
+    },
+    {
+      "Id": 334,
+      "CenterX": 276.932,
+      "CenterY": 386.58,
+      "SideLength": 46.034,
+      "Orientation": 1.284
+    },
+    {
+      "Id": 337,
+      "CenterX": 471.31,
+      "CenterY": 210.012,
+      "SideLength": 16.202,
+      "Orientation": 3.015
+    },
+    {
+      "Id": 343,
+      "CenterX": 5.732,
+      "CenterY": 257.631,
+      "SideLength": 63.895,
+      "Orientation": 6.118
+    },
+    {
+      "Id": 347,
+      "CenterX": 129.155,
+      "CenterY": 401.984,
+      "SideLength": 91.597,
+      "Orientation": 2.589
+    },
+    {
+      "Id": 349,
+      "CenterX": 154.043,
+      "CenterY": 384.733,
+      "SideLength": 55.927,
+      "Orientation": 2.005
+    },
+    {
+      "Id": 350,
+      "CenterX": 289.268,
+      "CenterY": 191,
+      "SideLength": 99.012,
+      "Orientation": 6.017
+    },
+    {
+      "Id": 352,
+      "CenterX": 22.287,
+      "CenterY": 443.656,
+      "SideLength": 5.849,
+      "Orientation": 5.699
+    },
+    {
+      "Id": 354,
+      "CenterX": 280.771,
+      "CenterY": 89.156,
+      "SideLength": 8.404,
+      "Orientation": 3.738
+    },
+    {
+      "Id": 358,
+      "CenterX": 211.374,
+      "CenterY": 308.888,
+      "SideLength": 12.22,
+      "Orientation": 2.28
+    },
+    {
+      "Id": 372,
+      "CenterX": 318.17,
+      "CenterY": 150.227,
+      "SideLength": 63.554,
+      "Orientation": 2.249
+    },
+    {
+      "Id": 374,
+      "CenterX": 16.771,
+      "CenterY": 295.842,
+      "SideLength": 87.368,
+      "Orientation": 4.494
+    },
+    {
+      "Id": 375,
+      "CenterX": 14.806,
+      "CenterY": 369.852,
+      "SideLength": 65.322,
+      "Orientation": 4.612
+    },
+    {
+      "Id": 385,
+      "CenterX": 84.074,
+      "CenterY": 199.325,
+      "SideLength": 43.185,
+      "Orientation": 1.193
+    },
+    {
+      "Id": 394,
+      "CenterX": 280.027,
+      "CenterY": 338.323,
+      "SideLength": 96.543,
+      "Orientation": 3.764
+    },
+    {
+      "Id": 398,
+      "CenterX": 109.375,
+      "CenterY": 298.628,
+      "SideLength": 54.116,
+      "Orientation": 3.979
+    },
+    {
+      "Id": 401,
+      "CenterX": 492.055,
+      "CenterY": 360.996,
+      "SideLength": 18.317,
+      "Orientation": 1.337
+    },
+    {
+      "Id": 402,
+      "CenterX": 456.723,
+      "CenterY": 215.393,
+      "SideLength": 30.932,
+      "Orientation": 0.009
+    },
+    {
+      "Id": 406,
+      "CenterX": 333.814,
+      "CenterY": 38.164,
+      "SideLength": 10.784,
+      "Orientation": 0.315
+    },
+    {
+      "Id": 415,
+      "CenterX": 315.407,
+      "CenterY": 312.875,
+      "SideLength": 20.514,
+      "Orientation": 2.282
+    },
+    {
+      "Id": 416,
+      "CenterX": 112.425,
+      "CenterY": 295.267,
+      "SideLength": 71.777,
+      "Orientation": 5.169
+    },
+    {
+      "Id": 417,
+      "CenterX": 234.095,
+      "CenterY": 286.27,
+      "SideLength": 77.518,
+      "Orientation": 3.12
+    },
+    {
+      "Id": 424,
+      "CenterX": 60.983,
+      "CenterY": 396.415,
+      "SideLength": 64.044,
+      "Orientation": 0.876
+    },
+    {
+      "Id": 428,
+      "CenterX": 250.249,
+      "CenterY": 471.748,
+      "SideLength": 47.666,
+      "Orientation": 4.088
+    },
+    {
+      "Id": 439,
+      "CenterX": 308.326,
+      "CenterY": 155.577,
+      "SideLength": 95.145,
+      "Orientation": 0.758
+    },
+    {
+      "Id": 442,
+      "CenterX": 315.271,
+      "CenterY": 21.361,
+      "SideLength": 30.649,
+      "Orientation": 4.485
+    },
+    {
+      "Id": 444,
+      "CenterX": 134.74,
+      "CenterY": 326.052,
+      "SideLength": 47.753,
+      "Orientation": 1.38
+    },
+    {
+      "Id": 445,
+      "CenterX": 396.857,
+      "CenterY": 92.713,
+      "SideLength": 6.886,
+      "Orientation": 4.085
+    },
+    {
+      "Id": 449,
+      "CenterX": 76.266,
+      "CenterY": 250.677,
+      "SideLength": 89.667,
+      "Orientation": 2.065
+    },
+    {
+      "Id": 459,
+      "CenterX": 45.345,
+      "CenterY": 59.173,
+      "SideLength": 80.962,
+      "Orientation": 0.602
+    },
+    {
+      "Id": 464,
+      "CenterX": 371.513,
+      "CenterY": 490.551,
+      "SideLength": 99.443,
+      "Orientation": 4.128
+    },
+    {
+      "Id": 465,
+      "CenterX": 226.288,
+      "CenterY": 96.884,
+      "SideLength": 69.449,
+      "Orientation": 1.783
+    },
+    {
+      "Id": 470,
+      "CenterX": 301.762,
+      "CenterY": 91.695,
+      "SideLength": 11.383,
+      "Orientation": 3.927
+    },
+    {
+      "Id": 472,
+      "CenterX": 80.562,
+      "CenterY": 416.047,
+      "SideLength": 73.892,
+      "Orientation": 4.705
+    },
+    {
+      "Id": 477,
+      "CenterX": 31.104,
+      "CenterY": 165.529,
+      "SideLength": 18.947,
+      "Orientation": 2.937
+    },
+    {
+      "Id": 479,
+      "CenterX": 34.886,
+      "CenterY": 472.728,
+      "SideLength": 13.458,
+      "Orientation": 5.976
+    },
+    {
+      "Id": 486,
+      "CenterX": 203.086,
+      "CenterY": 459.431,
+      "SideLength": 82.152,
+      "Orientation": 0.269
+    },
+    {
+      "Id": 491,
+      "CenterX": 377.432,
+      "CenterY": 289.869,
+      "SideLength": 41.551,
+      "Orientation": 5.938
+    },
+    {
+      "Id": 497,
+      "CenterX": 433.573,
+      "CenterY": 133.94,
+      "SideLength": 47.92,
+      "Orientation": 0.459
+    }
+  ],
+  "Polygons": [
+    {
+      "Id": 0,
+      "XCoordinates": [
+        62.605,
+        291.258,
+        465.37,
+        343.386,
+        248.332,
+        62.605
+      ],
+      "YCoordinates": [
+        91.23,
+        379.739,
+        363.316,
+        8.447,
+        19.997,
+        91.23
+      ]
+    },
+    {
+      "Id": 5,
+      "XCoordinates": [
+        82.996,
+        423.543,
+        384.286,
+        177.516,
+        82.996
+      ],
+      "YCoordinates": [
+        477.112,
+        53.133,
+        22.623,
+        234.229,
+        477.112
+      ]
+    },
+    {
+      "Id": 7,
+      "XCoordinates": [
+        99.757,
+        199.6,
+        247.247,
+        442.734,
+        481.008,
+        491.531,
+        306.515,
+        99.757
+      ],
+      "YCoordinates": [
+        65.467,
+        419.075,
+        458.918,
+        496.578,
+        477.95,
+        161.182,
+        56.257,
+        65.467
+      ]
+    },
+    {
+      "Id": 29,
+      "XCoordinates": [
+        14.263,
+        18.852,
+        281.655,
+        476.242,
+        493.353,
+        411.767,
+        139.983,
+        46.281,
+        14.263
+      ],
+      "YCoordinates": [
+        286.208,
+        324.625,
+        345.421,
+        231.2,
+        56.002,
+        16.011,
+        3.164,
+        67.154,
+        286.208
+      ]
+    },
+    {
+      "Id": 31,
+      "XCoordinates": [
+        63.326,
+        498.928,
+        498.919,
+        265.354,
+        63.326
+      ],
+      "YCoordinates": [
+        185.838,
+        460.34,
+        314.183,
+        27.257,
+        185.838
+      ]
+    },
+    {
+      "Id": 32,
+      "XCoordinates": [
+        0.596,
+        19.924,
+        67.816,
+        180.567,
+        344.318,
+        435.738,
+        399.592,
+        0.596
+      ],
+      "YCoordinates": [
+        74.888,
+        364.284,
+        425.979,
+        469.731,
+        433.719,
+        322.202,
+        57.636,
+        74.888
+      ]
+    },
+    {
+      "Id": 33,
+      "XCoordinates": [
+        67.693,
+        203.162,
+        469.865,
+        460.055,
+        266.973,
+        104.824,
+        67.693
+      ],
+      "YCoordinates": [
+        365.787,
+        480.962,
+        129.606,
+        29.197,
+        7.804,
+        92.748,
+        365.787
+      ]
+    },
+    {
+      "Id": 37,
+      "XCoordinates": [
+        16.106,
+        402.488,
+        471.76,
+        16.106
+      ],
+      "YCoordinates": [
+        382.033,
+        490.726,
+        70.011,
+        382.033
+      ]
+    },
+    {
+      "Id": 44,
+      "XCoordinates": [
+        21.273,
+        32.359,
+        73.383,
+        328.536,
+        486.208,
+        400.345,
+        160.775,
+        21.273
+      ],
+      "YCoordinates": [
+        308.675,
+        344.44,
+        365.77,
+        441.196,
+        419.057,
+        69.165,
+        129.533,
+        308.675
+      ]
+    },
+    {
+      "Id": 48,
+      "XCoordinates": [
+        21.121,
+        59.308,
+        367.377,
+        469.936,
+        471.345,
+        251.65,
+        21.121
+      ],
+      "YCoordinates": [
+        94.474,
+        359.895,
+        496.714,
+        465.787,
+        128.126,
+        10.028,
+        94.474
+      ]
+    },
+    {
+      "Id": 50,
+      "XCoordinates": [
+        23.142,
+        353.567,
+        438.559,
+        438.372,
+        428.638,
+        106.609,
+        59.942,
+        23.142
+      ],
+      "YCoordinates": [
+        415.608,
+        450.059,
+        437.949,
+        219.145,
+        27.663,
+        14.42,
+        32.874,
+        415.608
+      ]
+    },
+    {
+      "Id": 54,
+      "XCoordinates": [
+        109.024,
+        265.877,
+        390.483,
+        467.043,
+        485.426,
+        486.207,
+        455.517,
+        362.444,
+        150.223,
+        109.024
+      ],
+      "YCoordinates": [
+        232.004,
+        483.413,
+        444.474,
+        408.242,
+        399.259,
+        89.761,
+        37.149,
+        32.454,
+        21.998,
+        232.004
+      ]
+    },
+    {
+      "Id": 62,
+      "XCoordinates": [
+        93.886,
+        449.828,
+        487.785,
+        303.223,
+        137.52,
+        93.886
+      ],
+      "YCoordinates": [
+        497.206,
+        326.768,
+        83.768,
+        13.833,
+        85.256,
+        497.206
+      ]
+    },
+    {
+      "Id": 69,
+      "XCoordinates": [
+        76.959,
+        419.749,
+        362.189,
+        323.734,
+        76.959
+      ],
+      "YCoordinates": [
+        182.08,
+        352.064,
+        203.133,
+        133.217,
+        182.08
+      ]
+    },
+    {
+      "Id": 75,
+      "XCoordinates": [
+        1.908,
+        16.124,
+        84.901,
+        160.786,
+        371.017,
+        407.891,
+        321.663,
+        54.574,
+        1.908
+      ],
+      "YCoordinates": [
+        242.745,
+        441.902,
+        471.161,
+        496.772,
+        342.777,
+        157.439,
+        28.366,
+        33.833,
+        242.745
+      ]
+    },
+    {
+      "Id": 77,
+      "XCoordinates": [
+        32.149,
+        121.742,
+        410.121,
+        47.969,
+        32.149
+      ],
+      "YCoordinates": [
+        331.947,
+        499.79,
+        52.497,
+        290.869,
+        331.947
+      ]
+    },
+    {
+      "Id": 80,
+      "XCoordinates": [
+        26.292,
+        28.333,
+        90.461,
+        238.138,
+        401.052,
+        491.306,
+        473.543,
+        404.629,
+        219.58,
+        31.76,
+        26.292
+      ],
+      "YCoordinates": [
+        116.927,
+        138.694,
+        374.282,
+        495.823,
+        467.548,
+        410.058,
+        125.364,
+        92.364,
+        40.038,
+        63.478,
+        116.927
+      ]
+    },
+    {
+      "Id": 81,
+      "XCoordinates": [
+        5.429,
+        40.843,
+        213.97,
+        372.725,
+        486.218,
+        496.698,
+        5.429
+      ],
+      "YCoordinates": [
+        42.508,
+        421.889,
+        484.33,
+        402.103,
+        294.895,
+        86.589,
+        42.508
+      ]
+    },
+    {
+      "Id": 89,
+      "XCoordinates": [
+        13.562,
+        94.733,
+        160.029,
+        465.194,
+        492.741,
+        46.337,
+        13.562
+      ],
+      "YCoordinates": [
+        139.336,
+        471.433,
+        480.87,
+        467.872,
+        25.471,
+        29.953,
+        139.336
+      ]
+    },
+    {
+      "Id": 92,
+      "XCoordinates": [
+        94.348,
+        105.474,
+        417.626,
+        418.967,
+        266.892,
+        94.348
+      ],
+      "YCoordinates": [
+        53.22,
+        402.955,
+        458.935,
+        198.18,
+        16.614,
+        53.22
+      ]
+    },
+    {
+      "Id": 104,
+      "XCoordinates": [
+        42.042,
+        66.426,
+        85.822,
+        330.871,
+        427.722,
+        415.389,
+        331.174,
+        42.042
+      ],
+      "YCoordinates": [
+        192.186,
+        364.944,
+        385.922,
+        466.716,
+        293.665,
+        166.775,
+        52.013,
+        192.186
+      ]
+    },
+    {
+      "Id": 106,
+      "XCoordinates": [
+        5.893,
+        59.347,
+        278.261,
+        409.393,
+        456.946,
+        82.423,
+        5.893
+      ],
+      "YCoordinates": [
+        376.376,
+        443.504,
+        433.845,
+        159.24,
+        12.555,
+        108.183,
+        376.376
+      ]
+    },
+    {
+      "Id": 110,
+      "XCoordinates": [
+        26.429,
+        47.709,
+        498.213,
+        437.292,
+        26.429
+      ],
+      "YCoordinates": [
+        160.395,
+        248.448,
+        445.796,
+        26.475,
+        160.395
+      ]
+    },
+    {
+      "Id": 116,
+      "XCoordinates": [
+        48.468,
+        99.843,
+        387.589,
+        468.845,
+        274.399,
+        48.468
+      ],
+      "YCoordinates": [
+        140.931,
+        450.773,
+        460.849,
+        106.021,
+        96.587,
+        140.931
+      ]
+    },
+    {
+      "Id": 124,
+      "XCoordinates": [
+        32.711,
+        123.166,
+        318.312,
+        476.539,
+        462.348,
+        170.339,
+        47.107,
+        32.711
+      ],
+      "YCoordinates": [
+        361.576,
+        384.475,
+        334.327,
+        119.046,
+        85.521,
+        6.36,
+        227.477,
+        361.576
+      ]
+    },
+    {
+      "Id": 126,
+      "XCoordinates": [
+        21.943,
+        24.202,
+        335.963,
+        454.905,
+        400.487,
+        254.159,
+        57.37,
+        21.943
+      ],
+      "YCoordinates": [
+        235.971,
+        439.15,
+        475.167,
+        389.212,
+        268.851,
+        195.267,
+        179.828,
+        235.971
+      ]
+    },
+    {
+      "Id": 127,
+      "XCoordinates": [
+        19.662,
+        276.957,
+        444.4,
+        197.236,
+        70.527,
+        23.812,
+        19.662
+      ],
+      "YCoordinates": [
+        455.024,
+        483.458,
+        370.605,
+        27.233,
+        40.747,
+        201.611,
+        455.024
+      ]
+    },
+    {
+      "Id": 131,
+      "XCoordinates": [
+        7.647,
+        35.23,
+        115.503,
+        481.679,
+        425.234,
+        84.3,
+        7.647
+      ],
+      "YCoordinates": [
+        148.576,
+        391.398,
+        434.873,
+        323.666,
+        134.661,
+        25.999,
+        148.576
+      ]
+    },
+    {
+      "Id": 133,
+      "XCoordinates": [
+        9.237,
+        308.635,
+        386.043,
+        136.392,
+        72.721,
+        9.237
+      ],
+      "YCoordinates": [
+        221.718,
+        423.158,
+        4.008,
+        6.562,
+        109.07,
+        221.718
+      ]
+    },
+    {
+      "Id": 134,
+      "XCoordinates": [
+        84.569,
+        143.713,
+        246.028,
+        459.867,
+        437.623,
+        194.607,
+        119.135,
+        84.569
+      ],
+      "YCoordinates": [
+        135.077,
+        425.619,
+        478.633,
+        400.568,
+        62.439,
+        15.76,
+        1.661,
+        135.077
+      ]
+    },
+    {
+      "Id": 135,
+      "XCoordinates": [
+        12.183,
+        415.757,
+        450.267,
+        475.69,
+        384.873,
+        151.075,
+        58.435,
+        12.183
+      ],
+      "YCoordinates": [
+        418.672,
+        479.297,
+        478.528,
+        157.759,
+        114.98,
+        31.018,
+        250.965,
+        418.672
+      ]
+    },
+    {
+      "Id": 137,
+      "XCoordinates": [
+        39.307,
+        55.611,
+        361.791,
+        450.302,
+        489.478,
+        177.566,
+        39.307
+      ],
+      "YCoordinates": [
+        104.547,
+        464.8,
+        334.618,
+        293.554,
+        41.194,
+        28.732,
+        104.547
+      ]
+    },
+    {
+      "Id": 138,
+      "XCoordinates": [
+        1.888,
+        60.71,
+        457.765,
+        459.356,
+        432.31,
+        201.636,
+        65.48,
+        18.19,
+        1.888
+      ],
+      "YCoordinates": [
+        345.754,
+        478.747,
+        357.521,
+        306.226,
+        55.141,
+        23.584,
+        16.506,
+        20.841,
+        345.754
+      ]
+    },
+    {
+      "Id": 140,
+      "XCoordinates": [
+        28.699,
+        495.526,
+        244.457,
+        108.984,
+        39.068,
+        28.699
+      ],
+      "YCoordinates": [
+        490.45,
+        404.215,
+        169.166,
+        180.81,
+        258.859,
+        490.45
+      ]
+    },
+    {
+      "Id": 146,
+      "XCoordinates": [
+        97.201,
+        297.339,
+        365.03,
+        358.759,
+        139.515,
+        97.201
+      ],
+      "YCoordinates": [
+        412.78,
+        428.332,
+        186.494,
+        76.299,
+        284.328,
+        412.78
+      ]
+    },
+    {
+      "Id": 148,
+      "XCoordinates": [
+        36.122,
+        400.081,
+        466.842,
+        261.306,
+        174.897,
+        36.122
+      ],
+      "YCoordinates": [
+        305.325,
+        382.895,
+        259.781,
+        109.203,
+        114.939,
+        305.325
+      ]
+    },
+    {
+      "Id": 158,
+      "XCoordinates": [
+        23.113,
+        106.989,
+        297.62,
+        491.977,
+        430.327,
+        346.197,
+        137.918,
+        62.937,
+        23.113
+      ],
+      "YCoordinates": [
+        368.588,
+        446.241,
+        442.116,
+        437.173,
+        255.44,
+        67.23,
+        2.726,
+        86.879,
+        368.588
+      ]
+    },
+    {
+      "Id": 159,
+      "XCoordinates": [
+        11.863,
+        20.007,
+        84.012,
+        477.986,
+        422.846,
+        178.397,
+        47.027,
+        11.863
+      ],
+      "YCoordinates": [
+        203.446,
+        289.142,
+        370.782,
+        371.718,
+        41.53,
+        26.809,
+        101.551,
+        203.446
+      ]
+    },
+    {
+      "Id": 160,
+      "XCoordinates": [
+        232.327,
+        286.897,
+        308.323,
+        464.354,
+        479.034,
+        390.147,
+        232.327
+      ],
+      "YCoordinates": [
+        282.298,
+        429.737,
+        427.601,
+        290.61,
+        230.396,
+        55.997,
+        282.298
+      ]
+    },
+    {
+      "Id": 163,
+      "XCoordinates": [
+        327.361,
+        362.853,
+        420.831,
+        396.099,
+        327.361
+      ],
+      "YCoordinates": [
+        87.509,
+        293.228,
+        352.317,
+        239.912,
+        87.509
+      ]
+    },
+    {
+      "Id": 165,
+      "XCoordinates": [
+        211.936,
+        217.88,
+        459.202,
+        211.936
+      ],
+      "YCoordinates": [
+        8.887,
+        239.093,
+        173.358,
+        8.887
+      ]
+    },
+    {
+      "Id": 176,
+      "XCoordinates": [
+        63.853,
+        84.175,
+        285.076,
+        411.861,
+        415,
+        415.497,
+        223.814,
+        71.346,
+        63.853
+      ],
+      "YCoordinates": [
+        381.036,
+        471.178,
+        484.766,
+        308.246,
+        245.814,
+        169.345,
+        24.139,
+        130.682,
+        381.036
+      ]
+    },
+    {
+      "Id": 185,
+      "XCoordinates": [
+        23.842,
+        171.805,
+        447.341,
+        475.719,
+        305.265,
+        187.556,
+        151.258,
+        23.842
+      ],
+      "YCoordinates": [
+        373.874,
+        480.241,
+        312.024,
+        175.169,
+        46.546,
+        70.828,
+        96.466,
+        373.874
+      ]
+    },
+    {
+      "Id": 190,
+      "XCoordinates": [
+        20.697,
+        47.786,
+        194.46,
+        266.429,
+        352.511,
+        451.677,
+        194.973,
+        99.755,
+        20.697
+      ],
+      "YCoordinates": [
+        156.347,
+        421.322,
+        474.074,
+        491.708,
+        484.264,
+        379.204,
+        97.159,
+        63.826,
+        156.347
+      ]
+    },
+    {
+      "Id": 198,
+      "XCoordinates": [
+        49.59,
+        365.517,
+        392.545,
+        346.083,
+        49.59
+      ],
+      "YCoordinates": [
+        87.613,
+        312.086,
+        176.865,
+        94.56,
+        87.613
+      ]
+    },
+    {
+      "Id": 201,
+      "XCoordinates": [
+        69.494,
+        298.106,
+        274.162,
+        69.494
+      ],
+      "YCoordinates": [
+        248.433,
+        373.553,
+        24.997,
+        248.433
+      ]
+    },
+    {
+      "Id": 202,
+      "XCoordinates": [
+        49.155,
+        86.045,
+        358.533,
+        411.229,
+        457.531,
+        422.787,
+        151.65,
+        49.155
+      ],
+      "YCoordinates": [
+        296.584,
+        336.21,
+        439.679,
+        272.943,
+        39.955,
+        8.861,
+        170.238,
+        296.584
+      ]
+    },
+    {
+      "Id": 216,
+      "XCoordinates": [
+        90.032,
+        145.082,
+        433.227,
+        497.895,
+        449.944,
+        427.424,
+        303.871,
+        95.431,
+        90.208,
+        90.032
+      ],
+      "YCoordinates": [
+        384.502,
+        492.538,
+        467.76,
+        447.65,
+        133.798,
+        57.766,
+        49.306,
+        88.038,
+        188.478,
+        384.502
+      ]
+    },
+    {
+      "Id": 225,
+      "XCoordinates": [
+        14.819,
+        222.161,
+        444.382,
+        291.258,
+        48.927,
+        14.819
+      ],
+      "YCoordinates": [
+        401.048,
+        424.981,
+        195.2,
+        53.935,
+        120.784,
+        401.048
+      ]
+    },
+    {
+      "Id": 226,
+      "XCoordinates": [
+        19.826,
+        20.423,
+        225.691,
+        432.574,
+        476.557,
+        399.327,
+        319.57,
+        19.826
+      ],
+      "YCoordinates": [
+        136.562,
+        422.231,
+        420.879,
+        252.519,
+        60.393,
+        49.001,
+        49.951,
+        136.562
+      ]
+    },
+    {
+      "Id": 237,
+      "XCoordinates": [
+        200.668,
+        202.236,
+        335.508,
+        461.121,
+        474.409,
+        359.135,
+        253.717,
+        200.668
+      ],
+      "YCoordinates": [
+        363.572,
+        431.783,
+        433.998,
+        385.727,
+        228.349,
+        48.641,
+        65.336,
+        363.572
+      ]
+    },
+    {
+      "Id": 242,
+      "XCoordinates": [
+        89.476,
+        115.272,
+        139.359,
+        321.118,
+        477.813,
+        487.748,
+        494.54,
+        447.011,
+        89.476
+      ],
+      "YCoordinates": [
+        6.228,
+        351.532,
+        397.63,
+        492.495,
+        499.028,
+        479.039,
+        452.638,
+        81.914,
+        6.228
+      ]
+    },
+    {
+      "Id": 244,
+      "XCoordinates": [
+        2.995,
+        365.237,
+        432.33,
+        485.98,
+        447.797,
+        224.488,
+        3.021,
+        2.995
+      ],
+      "YCoordinates": [
+        468.173,
+        464.889,
+        265.736,
+        76.512,
+        68.429,
+        39.752,
+        104.101,
+        468.173
+      ]
+    },
+    {
+      "Id": 246,
+      "XCoordinates": [
+        15.474,
+        45.483,
+        312.345,
+        414.877,
+        433.781,
+        421.045,
+        248.542,
+        128.715,
+        15.474
+      ],
+      "YCoordinates": [
+        183.412,
+        233.292,
+        475.158,
+        404.687,
+        12.912,
+        12.212,
+        25.109,
+        54.348,
+        183.412
+      ]
+    },
+    {
+      "Id": 247,
+      "XCoordinates": [
+        58.618,
+        92.784,
+        256.386,
+        228.39,
+        58.618
+      ],
+      "YCoordinates": [
+        58.98,
+        192.458,
+        407.228,
+        16.238,
+        58.98
+      ]
+    },
+    {
+      "Id": 248,
+      "XCoordinates": [
+        131.988,
+        147.384,
+        424.183,
+        498.217,
+        306.082,
+        131.988
+      ],
+      "YCoordinates": [
+        80.741,
+        147.659,
+        438.519,
+        70.326,
+        25.091,
+        80.741
+      ]
+    },
+    {
+      "Id": 256,
+      "XCoordinates": [
+        7.041,
+        37.429,
+        61.784,
+        329.615,
+        481.845,
+        465.302,
+        107.447,
+        44.175,
+        27.921,
+        7.041
+      ],
+      "YCoordinates": [
+        131.517,
+        434.91,
+        472.469,
+        467.262,
+        227.156,
+        8.248,
+        3.872,
+        4.582,
+        17.404,
+        131.517
+      ]
+    },
+    {
+      "Id": 271,
+      "XCoordinates": [
+        37.727,
+        212.422,
+        300.53,
+        412.573,
+        320.327,
+        62.499,
+        50.269,
+        37.727
+      ],
+      "YCoordinates": [
+        396.874,
+        489.037,
+        444.05,
+        134.727,
+        39.51,
+        24.597,
+        46.041,
+        396.874
+      ]
+    },
+    {
+      "Id": 272,
+      "XCoordinates": [
+        22.505,
+        181.194,
+        462.854,
+        410.87,
+        41.048,
+        22.505
+      ],
+      "YCoordinates": [
+        320.004,
+        371.423,
+        380.586,
+        32.578,
+        23.38,
+        320.004
+      ]
+    },
+    {
+      "Id": 275,
+      "XCoordinates": [
+        135.171,
+        158.545,
+        335.986,
+        135.171
+      ],
+      "YCoordinates": [
+        82.329,
+        493.542,
+        217.723,
+        82.329
+      ]
+    },
+    {
+      "Id": 277,
+      "XCoordinates": [
+        44.48,
+        94.063,
+        352.605,
+        485.467,
+        44.48
+      ],
+      "YCoordinates": [
+        339.368,
+        376.125,
+        435.715,
+        256.062,
+        339.368
+      ]
+    },
+    {
+      "Id": 284,
+      "XCoordinates": [
+        8.922,
+        22.766,
+        384.002,
+        441.714,
+        448.286,
+        428.609,
+        148.628,
+        8.922
+      ],
+      "YCoordinates": [
+        161.89,
+        390.529,
+        433.268,
+        258.373,
+        134.243,
+        67.406,
+        2.364,
+        161.89
+      ]
+    },
+    {
+      "Id": 287,
+      "XCoordinates": [
+        55.203,
+        56.965,
+        109.441,
+        279.984,
+        441.033,
+        490.59,
+        497.917,
+        376.559,
+        185.679,
+        55.203
+      ],
+      "YCoordinates": [
+        287.557,
+        428.347,
+        496.164,
+        478.746,
+        406.353,
+        150.845,
+        88.745,
+        31.463,
+        71.941,
+        287.557
+      ]
+    },
+    {
+      "Id": 291,
+      "XCoordinates": [
+        0.9,
+        16.662,
+        148.858,
+        250.846,
+        479.195,
+        468.22,
+        125.358,
+        0.9
+      ],
+      "YCoordinates": [
+        197.144,
+        332.965,
+        420.112,
+        457.423,
+        405.352,
+        148.363,
+        118.128,
+        197.144
+      ]
+    },
+    {
+      "Id": 300,
+      "XCoordinates": [
+        8.298,
+        15.252,
+        176.073,
+        460.406,
+        473.345,
+        477.342,
+        463.722,
+        440.892,
+        8.298
+      ],
+      "YCoordinates": [
+        42.074,
+        89.276,
+        459.725,
+        497.603,
+        396.878,
+        348.771,
+        10.412,
+        7.474,
+        42.074
+      ]
+    },
+    {
+      "Id": 315,
+      "XCoordinates": [
+        47.062,
+        84.879,
+        302.244,
+        47.062
+      ],
+      "YCoordinates": [
+        13.099,
+        201.218,
+        116.14,
+        13.099
+      ]
+    },
+    {
+      "Id": 327,
+      "XCoordinates": [
+        15.687,
+        36.49,
+        131.248,
+        470.968,
+        465.407,
+        425.565,
+        321.43,
+        15.687
+      ],
+      "YCoordinates": [
+        205.465,
+        438.308,
+        415.667,
+        292.459,
+        98.111,
+        3.631,
+        3.697,
+        205.465
+      ]
+    },
+    {
+      "Id": 329,
+      "XCoordinates": [
+        29.798,
+        92.28,
+        373.584,
+        489.226,
+        376.237,
+        29.798
+      ],
+      "YCoordinates": [
+        348.561,
+        478.116,
+        309.177,
+        200.65,
+        211.279,
+        348.561
+      ]
+    },
+    {
+      "Id": 339,
+      "XCoordinates": [
+        50.393,
+        220.461,
+        306.326,
+        335.553,
+        460.635,
+        439.909,
+        189.912,
+        50.393
+      ],
+      "YCoordinates": [
+        161.756,
+        416.251,
+        474.589,
+        440.882,
+        215.9,
+        12.469,
+        90.61,
+        161.756
+      ]
+    },
+    {
+      "Id": 340,
+      "XCoordinates": [
+        34.68,
+        187.643,
+        470.645,
+        365.601,
+        251.277,
+        109.017,
+        34.68
+      ],
+      "YCoordinates": [
+        276.418,
+        493.004,
+        422.532,
+        86.871,
+        67.244,
+        44.661,
+        276.418
+      ]
+    },
+    {
+      "Id": 341,
+      "XCoordinates": [
+        33.731,
+        46.333,
+        459.146,
+        33.731
+      ],
+      "YCoordinates": [
+        158.823,
+        352.083,
+        45.22,
+        158.823
+      ]
+    },
+    {
+      "Id": 355,
+      "XCoordinates": [
+        15.752,
+        230.86,
+        402.498,
+        453.611,
+        476.992,
+        309.748,
+        33.572,
+        15.752
+      ],
+      "YCoordinates": [
+        381.007,
+        462.261,
+        463.135,
+        427.775,
+        293.419,
+        101.339,
+        101.815,
+        381.007
+      ]
+    },
+    {
+      "Id": 356,
+      "XCoordinates": [
+        45.294,
+        191.586,
+        298.467,
+        373.077,
+        474.079,
+        495.672,
+        418.682,
+        149.116,
+        45.294
+      ],
+      "YCoordinates": [
+        150.237,
+        403.846,
+        463.519,
+        499.526,
+        392.512,
+        351.732,
+        118.05,
+        6.641,
+        150.237
+      ]
+    },
+    {
+      "Id": 361,
+      "XCoordinates": [
+        11.793,
+        97.169,
+        278.708,
+        408.252,
+        389.875,
+        356.029,
+        207.755,
+        136.152,
+        11.793
+      ],
+      "YCoordinates": [
+        416.894,
+        425.407,
+        424.374,
+        396.476,
+        160.146,
+        137.365,
+        80.889,
+        174.946,
+        416.894
+      ]
+    },
+    {
+      "Id": 365,
+      "XCoordinates": [
+        120.459,
+        293.403,
+        325.256,
+        407.072,
+        498.144,
+        466.131,
+        120.459
+      ],
+      "YCoordinates": [
+        260.091,
+        430.65,
+        459.749,
+        427.577,
+        201.807,
+        31.722,
+        260.091
+      ]
+    },
+    {
+      "Id": 369,
+      "XCoordinates": [
+        0.788,
+        2.811,
+        55.141,
+        112.012,
+        466.965,
+        465.658,
+        455.538,
+        124.882,
+        29.321,
+        0.788
+      ],
+      "YCoordinates": [
+        79.548,
+        309.903,
+        433.34,
+        455.269,
+        472.248,
+        232.233,
+        1.037,
+        1.682,
+        32.987,
+        79.548
+      ]
+    },
+    {
+      "Id": 376,
+      "XCoordinates": [
+        63.541,
+        117.367,
+        276.052,
+        362.639,
+        276.696,
+        63.541
+      ],
+      "YCoordinates": [
+        194.989,
+        430.562,
+        435.263,
+        127.598,
+        54.104,
+        194.989
+      ]
+    },
+    {
+      "Id": 379,
+      "XCoordinates": [
+        53.929,
+        340.905,
+        418.042,
+        144.018,
+        102.395,
+        53.929
+      ],
+      "YCoordinates": [
+        43.525,
+        383.471,
+        214.636,
+        26.711,
+        17.151,
+        43.525
+      ]
+    },
+    {
+      "Id": 388,
+      "XCoordinates": [
+        38.175,
+        100.699,
+        313.78,
+        424.391,
+        207.519,
+        38.175
+      ],
+      "YCoordinates": [
+        93.063,
+        442.672,
+        478.878,
+        209.288,
+        25.836,
+        93.063
+      ]
+    },
+    {
+      "Id": 391,
+      "XCoordinates": [
+        5.169,
+        64.841,
+        188.185,
+        386.891,
+        461.528,
+        414.562,
+        128.735,
+        19.657,
+        5.169
+      ],
+      "YCoordinates": [
+        436.243,
+        495.723,
+        461.382,
+        386.072,
+        161.523,
+        112.394,
+        37.666,
+        170.129,
+        436.243
+      ]
+    },
+    {
+      "Id": 396,
+      "XCoordinates": [
+        21.681,
+        85.212,
+        384.005,
+        449.932,
+        457.461,
+        290.646,
+        96.681,
+        40.829,
+        21.681
+      ],
+      "YCoordinates": [
+        253.039,
+        415.523,
+        467.083,
+        149.867,
+        73.676,
+        36.661,
+        9.446,
+        99.398,
+        253.039
+      ]
+    },
+    {
+      "Id": 404,
+      "XCoordinates": [
+        69.092,
+        108.622,
+        350.062,
+        370.48,
+        434.797,
+        445.698,
+        474.981,
+        479.697,
+        438.632,
+        81.621,
+        69.092
+      ],
+      "YCoordinates": [
+        108.681,
+        238.608,
+        456.358,
+        468.902,
+        487.059,
+        481.14,
+        391.78,
+        104.818,
+        13.145,
+        15.095,
+        108.681
+      ]
+    },
+    {
+      "Id": 405,
+      "XCoordinates": [
+        6.777,
+        189.541,
+        290.221,
+        410.172,
+        426.199,
+        37.066,
+        6.777
+      ],
+      "YCoordinates": [
+        223.993,
+        455.333,
+        439.724,
+        405.775,
+        104.527,
+        186.896,
+        223.993
+      ]
+    },
+    {
+      "Id": 413,
+      "XCoordinates": [
+        8.854,
+        110.674,
+        230.01,
+        498.849,
+        8.854
+      ],
+      "YCoordinates": [
+        14,
+        396.425,
+        463.815,
+        309.453,
+        14
+      ]
+    },
+    {
+      "Id": 414,
+      "XCoordinates": [
+        23.782,
+        333.264,
+        465.686,
+        249.698,
+        23.782
+      ],
+      "YCoordinates": [
+        431.39,
+        463.797,
+        275.732,
+        20.12,
+        431.39
+      ]
+    },
+    {
+      "Id": 418,
+      "XCoordinates": [
+        25.78,
+        233.971,
+        284.122,
+        347.896,
+        25.78
+      ],
+      "YCoordinates": [
+        324.803,
+        340.154,
+        301.259,
+        12.203,
+        324.803
+      ]
+    },
+    {
+      "Id": 420,
+      "XCoordinates": [
+        223.117,
+        369.526,
+        469.689,
+        334.366,
+        223.117
+      ],
+      "YCoordinates": [
+        460.873,
+        475.449,
+        351.371,
+        356.803,
+        460.873
+      ]
+    },
+    {
+      "Id": 421,
+      "XCoordinates": [
+        15.727,
+        55.974,
+        188.833,
+        370.466,
+        440.435,
+        325.386,
+        64.458,
+        15.727
+      ],
+      "YCoordinates": [
+        179.966,
+        482.528,
+        487.96,
+        432.033,
+        128.539,
+        70.151,
+        14.148,
+        179.966
+      ]
+    },
+    {
+      "Id": 433,
+      "XCoordinates": [
+        58.049,
+        158.086,
+        441.185,
+        115.783,
+        63.463,
+        58.049
+      ],
+      "YCoordinates": [
+        390.691,
+        494.904,
+        499.267,
+        89.235,
+        150.03,
+        390.691
+      ]
+    },
+    {
+      "Id": 436,
+      "XCoordinates": [
+        28.787,
+        51.671,
+        269.796,
+        443.351,
+        481.126,
+        302.137,
+        110.304,
+        28.787
+      ],
+      "YCoordinates": [
+        74.63,
+        444.16,
+        453.203,
+        413.438,
+        94.197,
+        32.869,
+        22.338,
+        74.63
+      ]
+    },
+    {
+      "Id": 437,
+      "XCoordinates": [
+        31.245,
+        117.156,
+        358.679,
+        443.232,
+        493.551,
+        346.475,
+        111.203,
+        31.245
+      ],
+      "YCoordinates": [
+        213.252,
+        316.897,
+        440.115,
+        326.412,
+        146.925,
+        4.271,
+        22.086,
+        213.252
+      ]
+    },
+    {
+      "Id": 441,
+      "XCoordinates": [
+        24.516,
+        404.813,
+        470.23,
+        469.035,
+        377.944,
+        188.859,
+        88.387,
+        24.516
+      ],
+      "YCoordinates": [
+        463.427,
+        347.631,
+        204.095,
+        183.498,
+        1.719,
+        103.668,
+        254.572,
+        463.427
+      ]
+    },
+    {
+      "Id": 448,
+      "XCoordinates": [
+        2.588,
+        22.949,
+        454.389,
+        459.796,
+        446.245,
+        339.003,
+        144.734,
+        21.578,
+        2.588
+      ],
+      "YCoordinates": [
+        486.297,
+        483.891,
+        406.508,
+        56.985,
+        39.32,
+        33.572,
+        124.31,
+        349.624,
+        486.297
+      ]
+    },
+    {
+      "Id": 451,
+      "XCoordinates": [
+        19.796,
+        25.607,
+        87.628,
+        355.527,
+        482.258,
+        355.113,
+        21.841,
+        19.796
+      ],
+      "YCoordinates": [
+        322.574,
+        477.714,
+        494.132,
+        495.551,
+        449.865,
+        30.984,
+        1.15,
+        322.574
+      ]
+    },
+    {
+      "Id": 454,
+      "XCoordinates": [
+        21.969,
+        104.955,
+        405.662,
+        305.634,
+        151.633,
+        21.969
+      ],
+      "YCoordinates": [
+        327.329,
+        446.536,
+        427.083,
+        150.864,
+        15.796,
+        327.329
+      ]
+    },
+    {
+      "Id": 455,
+      "XCoordinates": [
+        6.838,
+        44.127,
+        332.555,
+        396.349,
+        421.548,
+        245.665,
+        6.838
+      ],
+      "YCoordinates": [
+        207.186,
+        476.182,
+        468.525,
+        348.557,
+        92.577,
+        77.376,
+        207.186
+      ]
+    },
+    {
+      "Id": 456,
+      "XCoordinates": [
+        98.395,
+        119.306,
+        224.921,
+        330.493,
+        496.966,
+        465.558,
+        420.653,
+        220.909,
+        98.395
+      ],
+      "YCoordinates": [
+        175.452,
+        347.048,
+        427.744,
+        485.678,
+        195.684,
+        63.791,
+        31.178,
+        25.036,
+        175.452
+      ]
+    },
+    {
+      "Id": 461,
+      "XCoordinates": [
+        153.198,
+        443.152,
+        456.554,
+        291.364,
+        153.198
+      ],
+      "YCoordinates": [
+        261.999,
+        459.318,
+        142.931,
+        118.862,
+        261.999
+      ]
+    },
+    {
+      "Id": 468,
+      "XCoordinates": [
+        59.985,
+        427.52,
+        472.866,
+        122.799,
+        59.985
+      ],
+      "YCoordinates": [
+        454.409,
+        450.933,
+        164.717,
+        222.445,
+        454.409
+      ]
+    },
+    {
+      "Id": 480,
+      "XCoordinates": [
+        147.318,
+        484.782,
+        485.571,
+        467.902,
+        256.803,
+        219.344,
+        147.318
+      ],
+      "YCoordinates": [
+        435.518,
+        370.893,
+        204.917,
+        14.719,
+        30.645,
+        98.613,
+        435.518
+      ]
+    },
+    {
+      "Id": 487,
+      "XCoordinates": [
+        223.981,
+        273.051,
+        464.103,
+        223.981
+      ],
+      "YCoordinates": [
+        35.036,
+        422.598,
+        232.795,
+        35.036
+      ]
+    },
+    {
+      "Id": 490,
+      "XCoordinates": [
+        18.657,
+        277.238,
+        454.897,
+        393.734,
+        143.683,
+        18.657
+      ],
+      "YCoordinates": [
+        326.968,
+        475.945,
+        143.518,
+        3.452,
+        53.466,
+        326.968
+      ]
+    }
+  ]
+}
