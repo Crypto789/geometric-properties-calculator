@@ -15,6 +15,7 @@ namespace Shape_GEO_Calculator
         double vertexes = 0;
         int length = 4;
         double Root = (float)Math.Sqrt(3) / 4;
+        
         public List<double> SquareArea() {
             List<double> Values = new List<double>();
             using (StreamReader read = new StreamReader("Shapes-49464.json")) {
@@ -104,7 +105,7 @@ namespace Shape_GEO_Calculator
                 return Values;
             }
         }
-        //solving for PolygonArea suing Shoelace formula
+        //solving for PolygonArea using Shoelace formula
         public List<double> PolygonArea() {
             List<double> Values = new List<double>();
             int last = length - 1;
@@ -177,7 +178,7 @@ namespace Shape_GEO_Calculator
             foreach (double Area in PolygonArea()) { Values.Add(Area); }
             return Values;
         }
-        //Creates Objects of Json
+        //Creating Objects parts of Json
         public List<ValuesMapper> MappingValues() {
             List<double> area = new List<double>();
             List<double> peri = new List<double>();
@@ -185,6 +186,8 @@ namespace Shape_GEO_Calculator
             ValuesMapper  map = new ValuesMapper();
             foreach (double p in PerimeterValues()) { peri.Add(p); }
             foreach (double a in AreaValues()) { area.Add(a); }
+            
+            //using Perimeter Length to keep from going out of index
             for (var i = 1; i < peri.Count(); i++)
             {
 
