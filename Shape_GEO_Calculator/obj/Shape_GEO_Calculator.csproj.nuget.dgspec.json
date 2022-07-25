@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Santi\\source\\repos\\Shape_GEO_Calculator\\Shape_GEO_Calculator\\Shape_GEO_Calculator.csproj": {}
+    "C:\\Users\\Santi\\Source\\Repos\\Crypto789\\geometric-properties-calculator\\Shape_GEO_Calculator\\Shape_GEO_Calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Santi\\source\\repos\\Shape_GEO_Calculator\\Shape_GEO_Calculator\\Shape_GEO_Calculator.csproj": {
+    "C:\\Users\\Santi\\Source\\Repos\\Crypto789\\geometric-properties-calculator\\Shape_GEO_Calculator\\Shape_GEO_Calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Santi\\source\\repos\\Shape_GEO_Calculator\\Shape_GEO_Calculator\\Shape_GEO_Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\Santi\\Source\\Repos\\Crypto789\\geometric-properties-calculator\\Shape_GEO_Calculator\\Shape_GEO_Calculator.csproj",
         "projectName": "Shape_GEO_Calculator",
-        "projectPath": "C:\\Users\\Santi\\source\\repos\\Shape_GEO_Calculator\\Shape_GEO_Calculator\\Shape_GEO_Calculator.csproj",
+        "projectPath": "C:\\Users\\Santi\\Source\\Repos\\Crypto789\\geometric-properties-calculator\\Shape_GEO_Calculator\\Shape_GEO_Calculator.csproj",
         "packagesPath": "C:\\Users\\Santi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Santi\\source\\repos\\Shape_GEO_Calculator\\Shape_GEO_Calculator\\obj\\",
+        "outputPath": "C:\\Users\\Santi\\Source\\Repos\\Crypto789\\geometric-properties-calculator\\Shape_GEO_Calculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

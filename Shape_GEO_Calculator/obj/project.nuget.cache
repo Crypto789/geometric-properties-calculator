@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rLBFD0IGCpv70z7spJ5Y0oV0MxVRcfNWBqcGT1rcNvQbTw15qWwW6DOhxE+ABw7mjaR9Gliep9/rJN7cudiwWQ==",
+  "dgSpecHash": "KjnP5beGovdq0ENxn3PfnJmQp1ous4eLaMHBSqh469Pw3R1tjC3LG0qwhALjSBv7WHeE3KXhj/Nb52OzeLSueA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Santi\\source\\repos\\Shape_GEO_Calculator\\Shape_GEO_Calculator\\Shape_GEO_Calculator.csproj",
+  "projectFilePath": "C:\\Users\\Santi\\Source\\Repos\\Crypto789\\geometric-properties-calculator\\Shape_GEO_Calculator\\Shape_GEO_Calculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Santi\\.nuget\\packages\\aspose.cells\\22.7.0\\aspose.cells.22.7.0.nupkg.sha512",
     "C:\\Users\\Santi\\.nuget\\packages\\csvhelper\\28.0.1\\csvhelper.28.0.1.nupkg.sha512",

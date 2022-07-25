@@ -22,7 +22,7 @@ namespace Shape_GEO_Calculator
             Console.WriteLine(json);
             var obj = JsonConvert.DeserializeObject<ValuesMapper[]>(json);
             Console.WriteLine(obj);
-            using (TextWriter writer = new StreamWriter("Result.csv"))
+            using (TextWriter writer = new StreamWriter("FinalResult.csv"))
             {
                 using (var csv = new CsvWriter(writer, System.Globalization.CultureInfo.CurrentCulture))
                 {

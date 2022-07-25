@@ -11,120 +11,82 @@ namespace Shape_GEO_Calculator
 {
     public class GeoCalculator 
     {
-        // helper variables
-        double vertexes = 0;
-        int length = 4;
-        double Root = (float)Math.Sqrt(3) / 4;
-        
         public List<double> SquareArea() {
             List<double> Values = new List<double>();
-            using (StreamReader read = new StreamReader("Shapes-49464.json")) {
-                string data = read.ReadToEnd();
-                Shapes shapes = Shapes.FromJson(data);
-                foreach (Square s in shapes.Squares) {
-                    s._area = s.SideLength * 4;
-                    Values.Add(s._area);
-                }
-                return Values;
+            foreach (Square s in ReadJsonFile().Squares) {
+                s._area = s.SideLength * 4;
+                Values.Add(s._area);
             }
+            return Values;
         }
 
         public List<double> SquarePerimeter() {
             List<double> Values = new List<double>();
-            using (StreamReader read = new StreamReader("Shapes-49464.json"))
+            foreach (Square s in ReadJsonFile().Squares)
             {
-                string data = read.ReadToEnd();
-                Shapes shapes = Shapes.FromJson(data);
-                foreach (Square s in shapes.Squares)
-                {
-                    s._perimeter = s.SideLength * s.SideLength;
-                    Values.Add(s._perimeter);
-                }
-                return Values;
+               s._perimeter = s.SideLength * s.SideLength;
+               Values.Add(s._perimeter);
             }
+            return Values;
         }
 
         public List<double> CircleArea() {
             List<double> Values = new List<double>();
-            using (StreamReader read = new StreamReader("Shapes-49464.json"))
+            foreach (Circle c in ReadJsonFile().Circles)
             {
-                string data = read.ReadToEnd();
-                Shapes shapes = Shapes.FromJson(data);
-                foreach (Circle c in shapes.Circles)
-                {
-                    c._area = Math.Round(Math.PI * Math.Pow((c.Radius * 2), 2));
-                    Values.Add(c._area);
-                }
-                return Values;
+                c._area = Math.Round(Math.PI * Math.Pow((c.Radius * 2), 2));
+                Values.Add(c._area);
             }
+            return Values;
         }
 
         public List<double> CirclePeriemeter() {
             List<double> Values = new List<double>();
-            using (StreamReader read = new StreamReader("Shapes-49464.json"))
+            foreach (Circle c in ReadJsonFile().Circles)
             {
-                string data = read.ReadToEnd();
-                Shapes shapes = Shapes.FromJson(data);
-                foreach (Circle c in shapes.Circles)
-                {
-                    c._perimeter = Math.Round(Math.PI * (c.Radius * 2), 2);
-                    Values.Add(c._perimeter);
-                }
-                return Values;
+                c._perimeter = Math.Round(Math.PI * (c.Radius * 2), 2);
+                Values.Add(c._perimeter);
             }
+            return Values;
         }
         //finding the area of ellipse
         public List<double> EllipseArea()
         {
             List<double> Values = new List<double>();
-            using (StreamReader read = new StreamReader("Shapes-49464.json"))
+            foreach (Ellipse e in ReadJsonFile().Ellipses)
             {
-                string data = read.ReadToEnd();
-                Shapes shapes = Shapes.FromJson(data);
-                foreach (Ellipse e in shapes.Ellipses)
-                {
-                    e._area = e.R1 * e.R2 * 3.142;
-                    Values.Add(e._area);
-                }
-                return Values;
+               e._area = e.R1 * e.R2 * 3.142;
+               Values.Add(e._area);
             }
+            return Values;
         }
         //finding the perimeter of ellipse
         public List<double> EllipsePerimeter()
         {
             List<double> Values = new List<double>();
-            using (StreamReader read = new StreamReader("Shapes-49464.json"))
+            foreach (Ellipse e in ReadJsonFile().Ellipses)
             {
-                string data = read.ReadToEnd();
-                Shapes shapes = Shapes.FromJson(data);
-                foreach (Ellipse e in shapes.Ellipses)
-                {
-                    e._perimeter = Math.Sqrt((e.R1 * e.R1 + e.R2 * e.R2) / (1.0 * 2)) * 2.14 * 2;
-                    Values.Add(e._perimeter);
-                }
-                return Values;
+                e._perimeter = Math.Sqrt((e.R1 * e.R1 + e.R2 * e.R2) / (1.0 * 2)) * 2.14 * 2;
+                Values.Add(e._perimeter);
             }
+            return Values;
         }
         //solving for PolygonArea using Shoelace formula
         public List<double> PolygonArea() {
             List<double> Values = new List<double>();
-            int last = length - 1;
-            using (StreamReader read = new StreamReader("Shapes-49464.json"))
+            int Value = 4 - 1;
+            double vertexes = 0;
+            foreach (Polygon p in ReadJsonFile().Polygons)
             {
-                string data = read.ReadToEnd();
-                Shapes shapes = Shapes.FromJson(data);
-                foreach (Polygon p in shapes.Polygons)
-                {
-                    for (int l = 0; l < length; l++)
-                    {
-                        vertexes += (p.XCoordinates[last] + p.XCoordinates[l]) * (p.YCoordinates[last] + p.YCoordinates[l]);
-                        last = l;
-                    }
-                    p._area = Math.Abs(vertexes / 2.0);
-                    Values.Add(p._area);
-                }
-                return Values;
+               for (int i = 0; i < 4; i++)
+               {
+                   vertexes += (p.XCoordinates[Value] + p.XCoordinates[i]) * (p.YCoordinates[Value] + p.YCoordinates[i]);
+                   Value = i;
+               }
+               p._area = Math.Abs(vertexes / 2.0);
+               Values.Add(p._area);
             }
+            return Values;
         }
 
         public void PolygonPerimeter() {
@@ -132,32 +94,22 @@ namespace Shape_GEO_Calculator
         //getting the Area of Equilteral Triangle
         public List<double> EquilateralTriangleArea() {
             List<double> Values = new List<double>();
-            using (StreamReader read = new StreamReader("Shapes-49464.json"))
+            foreach (EquilateralTriangle ET in ReadJsonFile().EquilateralTriangles)
             {
-                string data = read.ReadToEnd();
-                Shapes shapes = Shapes.FromJson(data);
-                foreach (EquilateralTriangle ET in shapes.EquilateralTriangles)
-                {
-                    ET._area = ET.SideLength * Root * ET.SideLength;
-                    Values.Add(ET._area);
-                }
-                return Values;
+               ET._area = ET.SideLength * (float)Math.Sqrt(3) / 4 * ET.SideLength;
+               Values.Add(ET._area);
             }
+            return Values;
         }
         //getting the Parimeter of Equilteral Triangle
         public List<double> EquilateralTrianglePerimeter() {
             List<double> Values = new List<double>();
-            using (StreamReader read = new StreamReader("Shapes-49464.json"))
+            foreach (EquilateralTriangle ET in ReadJsonFile().EquilateralTriangles)
             {
-                string data = read.ReadToEnd();
-                Shapes shapes = Shapes.FromJson(data);
-                foreach (EquilateralTriangle ET in shapes.EquilateralTriangles)
-                {
-                    ET._perimeter = (float)3 * ET.SideLength;
-                    Values.Add(ET._perimeter);
-                }
-                return Values;
+                ET._perimeter = (float)3 * ET.SideLength;
+                Values.Add(ET._perimeter);
             }
+            return Values;
         }
         //storing Parimeter
         public List<double> PerimeterValues() {
@@ -197,6 +149,15 @@ namespace Shape_GEO_Calculator
             return objects;
         }
 
+        public Shapes ReadJsonFile()
+        {
+            using (StreamReader read = new StreamReader("Shapes-49464.json"))
+            {
+                string data = read.ReadToEnd();
+                Shapes shapes = Shapes.FromJson(data);
+                return shapes;
+            }
+        }
     }
 
 }
