@@ -1,5 +1,5 @@
 ﻿/*
-File:		Shapes.cs
+File:		GeoCalculato.cs
 Author(s):
 	Base:	Santiago Guzman
 
