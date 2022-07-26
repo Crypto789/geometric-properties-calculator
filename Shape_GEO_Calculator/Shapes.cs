@@ -1,4 +1,18 @@
-﻿using System;
+﻿
+/*
+File:			Shapes.cs
+Author(s):
+	Base:		Santiago Guzman
+
+Created:		   07.18.2022
+Last Modified:	07.25.2022
+
+Purpose:		   Wrapper Classes for Assignment
+
+Notes:			programmatically read file, calculate geometric properties,
+               and save the calculated data to a new Csv file
+*/
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
