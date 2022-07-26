@@ -1,13 +1,14 @@
 ﻿// See https://aka.ms/new-console-template for more information
 /*
-File:			Program.cs
+File:		Program.cs
 Author(s):
-	Base:		Santiago Guzman
+	Base:	Santiago Guzman
 
-Created:		07.18.2022
+Created:	07.18.2022
 Last Modified:	07.25.2022
-Purpose:		Assignment
-Notes:			programmatically read file, calculate geometric properties,
+
+Purpose:	Assignment
+Notes:		programmatically read file, calculate geometric properties,
                 and save the calculated data to a new Csv file
 */
 using System;
