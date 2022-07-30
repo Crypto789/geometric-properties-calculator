@@ -104,8 +104,14 @@ namespace Shape_GEO_Calculator
 
         public List<double> PolygonPerimeter() {
             List<double> Values = new List<double>();
+            int Value = 4 - 1;
+            double vertexes = 0;
             foreach (Polygon p in ReadJsonFile().Polygons) {
-                p._perimeter = p.Area * 5;
+                for (int i = 0; i < 4; i++)
+                {
+                    p._perimeter = Math.Sqrt(((p.XCoordinates[Value] - p.XCoordinates[i])*2) + ((p.YCoordinates[Value] - p.YCoordinates[i]) *2 ));
+                    Value = i;
+                }
                 Values.Add(p._perimeter);
             }
             return Values;
