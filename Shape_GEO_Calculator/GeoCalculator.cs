@@ -14,7 +14,7 @@ namespace Shape_GEO_Calculator
         public List<double> SquareArea() {
             List<double> Values = new List<double>();
             foreach (Square s in ReadJsonFile().Squares) {
-                s._area = s.SideLength * 4;
+                s._area = s.SideLength * s.SideLength;
                 Values.Add(s._area);
             }
             return Values;
@@ -24,7 +24,7 @@ namespace Shape_GEO_Calculator
             List<double> Values = new List<double>();
             foreach (Square s in ReadJsonFile().Squares)
             {
-               s._perimeter = s.SideLength * s.SideLength;
+               s._perimeter = s.SideLength * 4;
                Values.Add(s._perimeter);
             }
             return Values;
@@ -34,7 +34,7 @@ namespace Shape_GEO_Calculator
             List<double> Values = new List<double>();
             foreach (Circle c in ReadJsonFile().Circles)
             {
-                c._area = Math.Round(Math.PI * Math.Pow((c.Radius * 2), 2));
+                c._area = (3.14) * c.Radius * c.Radius;
                 Values.Add(c._area);
             }
             return Values;
@@ -44,7 +44,7 @@ namespace Shape_GEO_Calculator
             List<double> Values = new List<double>();
             foreach (Circle c in ReadJsonFile().Circles)
             {
-                c._perimeter = Math.Round(Math.PI * (c.Radius * 2), 2);
+                c._perimeter = 3.14 * 2 * c.Radius;
                 Values.Add(c._perimeter);
             }
             return Values;
@@ -55,7 +55,7 @@ namespace Shape_GEO_Calculator
             List<double> Values = new List<double>();
             foreach (Ellipse e in ReadJsonFile().Ellipses)
             {
-               e._area = e.R1 * e.R2 * 3.142;
+               e._area = e.R1 * e.R2 * 3.14;
                Values.Add(e._area);
             }
             return Values;
@@ -66,7 +66,7 @@ namespace Shape_GEO_Calculator
             List<double> Values = new List<double>();
             foreach (Ellipse e in ReadJsonFile().Ellipses)
             {
-                e._perimeter = Math.Sqrt((e.R1 * e.R1 + e.R2 * e.R2) / (1.0 * 2)) * 2.14 * 2;
+                e._perimeter = 3.14 * 2 * Math.Sqrt((e.R1 * e.R1 + e.R2 * e.R2) / (1.0 * 2)) ;
                 Values.Add(e._perimeter);
             }
             return Values;
@@ -89,14 +89,20 @@ namespace Shape_GEO_Calculator
             return Values;
         }
 
-        public void PolygonPerimeter() {
+        public List<double> PolygonPerimeter() {
+            List<double> Values = new List<double>();
+            foreach (Polygon p in ReadJsonFile().Polygons) {
+                p._perimeter = p.Area * 5;
+                Values.Add(p._perimeter);
+            }
+            return Values;
         }
         //getting the Area of Equilteral Triangle
         public List<double> EquilateralTriangleArea() {
             List<double> Values = new List<double>();
             foreach (EquilateralTriangle ET in ReadJsonFile().EquilateralTriangles)
             {
-               ET._area = ET.SideLength * (float)Math.Sqrt(3) / 4 * ET.SideLength;
+               ET._area = (Math.Sqrt(3)/4) * ET.SideLength * ET.SideLength;
                Values.Add(ET._area);
             }
             return Values;
@@ -106,7 +112,7 @@ namespace Shape_GEO_Calculator
             List<double> Values = new List<double>();
             foreach (EquilateralTriangle ET in ReadJsonFile().EquilateralTriangles)
             {
-                ET._perimeter = (float)3 * ET.SideLength;
+                ET._perimeter = 3 * ET.SideLength;
                 Values.Add(ET._perimeter);
             }
             return Values;
@@ -118,6 +124,7 @@ namespace Shape_GEO_Calculator
             foreach (double Peri in CirclePeriemeter()) { Values.Add(Peri); }
             foreach (double Peri in EllipsePerimeter()) { Values.Add(Peri);}
             foreach (double Peri in EquilateralTrianglePerimeter()) {Values.Add(Peri);}
+            foreach (double Peri in PolygonPerimeter()) { Values.Add(Peri); }
             return Values;
         }
         //Storing all Area Values
@@ -138,8 +145,7 @@ namespace Shape_GEO_Calculator
             ValuesMapper  map = new ValuesMapper();
             foreach (double p in PerimeterValues()) { peri.Add(p); }
             foreach (double a in AreaValues()) { area.Add(a); }
-            
-            //using Perimeter Length to keep from going out of index
+           
             for (var i = 1; i < peri.Count(); i++)
             {
 
