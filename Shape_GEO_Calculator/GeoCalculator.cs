@@ -87,16 +87,17 @@ namespace Shape_GEO_Calculator
         //solving for PolygonArea using Shoelace formula
         public List<double> PolygonArea() {
             List<double> Values = new List<double>();
-            int Value = 4 - 1;
-            double vertexes = 0;
+            double A = 0;
             foreach (Polygon p in ReadJsonFile().Polygons)
             {
-               for (int i = 0; i < 4; i++)
+                
+                int Value = (int)(p.XCoordinates.Count() - 1);
+                for (int i = 0; i < p.XCoordinates.Count(); i++)
                {
-                   vertexes += (p.XCoordinates[Value] + p.XCoordinates[i]) * (p.YCoordinates[Value] + p.YCoordinates[i]);
+                   A += (p.XCoordinates[Value] + p.XCoordinates[i]) * (p.YCoordinates[Value] + p.YCoordinates[i]);
                    Value = i;
                }
-               p._area = Math.Abs(vertexes / 2.0);
+               p._area = Math.Abs(A / 2.0);
                Values.Add(p._area);
             }
             return Values;
@@ -104,14 +105,17 @@ namespace Shape_GEO_Calculator
 
         public List<double> PolygonPerimeter() {
             List<double> Values = new List<double>();
-            int Value = 4 - 1;
-            double vertexes = 0;
-            foreach (Polygon p in ReadJsonFile().Polygons) {
-                for (int i = 0; i < 4; i++)
+            double P = 0;
+            foreach (Polygon p in ReadJsonFile().Polygons)
+            {
+                int Value = (int)(p.XCoordinates.Count() - 1);
+                for (int i = 0; i < p.XCoordinates.Count(); i++)
                 {
-                    p._perimeter = Math.Sqrt(((p.XCoordinates[Value] - p.XCoordinates[i])*2) + ((p.YCoordinates[Value] - p.YCoordinates[i]) *2 ));
+                    P += Math.Sqrt((p.XCoordinates[Value] - p.XCoordinates[i]) * (p.XCoordinates[Value] - p.XCoordinates[i]) +
+                          (p.YCoordinates[Value] - p.YCoordinates[i]) * (p.YCoordinates[Value] - p.YCoordinates[i]));
                     Value = i;
                 }
+                p._perimeter = P;
                 Values.Add(p._perimeter);
             }
             return Values;
