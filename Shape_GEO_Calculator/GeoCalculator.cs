@@ -1,4 +1,17 @@
-﻿using System;
+﻿/*
+File:		GeoCalculato.cs
+Author(s):
+	Base:	Santiago Guzman
+
+Created:	07.18.2022
+Last Modified:	07.25.2022
+
+Purpose:	Classe Calculations for Assignment
+
+Notes:		programmatically read file, calculate geometric properties,
+               	and save the calculated data to a new Csv file
+*/
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
